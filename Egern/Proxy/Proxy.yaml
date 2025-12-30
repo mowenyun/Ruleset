@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 6697
+# 规则统计: 6699
 
 no_resolve: true
 domain_set:
@@ -268,6 +268,7 @@ domain_suffix_set:
   - aliengu.com
   - alive.bar
   - aljazeera.com
+  - aljazeera.net
   - alkasir.com
   - all4mom.org
   - allcoin.com
@@ -2201,6 +2202,7 @@ domain_suffix_set:
   - gfw.press
   - gfw.report
   - gfwatch.org
+  - gfwbao.com
   - gfwlist.end
   - gfwlist.start
   - gfx.ms
