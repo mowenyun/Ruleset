@@ -80,9 +80,9 @@ def process_singbox(file_path: Path):
         if style in SINGBOX_RULE_MAP:
             rule_type = SINGBOX_RULE_MAP[style]
             rule_data[rule_type].append(value)
-    rule_list = [{rtype: values} for rtype, values in rule_data.items()]
+    rule_list = [{rule_type: value} for rule_type, value in rule_data.items()]
     output = {"version": 3, "rules": rule_list}
-    rules_write(file_path, platform="Singbox", rule_data=output)
+    rules_write(file_path, rule_data=output, platform="Singbox")
     platform_root = next(p for p in file_path.parents if p.name == "Singbox")
     json_relative = file_path.relative_to(platform_root.parent)
     srs_relative = file_path.with_suffix(".srs").relative_to(platform_root.parent)
