@@ -3,3 +3,7 @@
 
 # Checkout Repository
 rule_script/
+
+# Sing-box Compile
+sing-box.tar.gz
+sing-box-*-linux-amd64/
