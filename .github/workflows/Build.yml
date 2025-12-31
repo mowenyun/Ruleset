@@ -22,13 +22,12 @@ jobs:
           path: ios_rule_script
 
       - name: Prepare Rule
-        run: |
-          bash Scripts/Build.sh
+        run: bash Build.sh
 
       - name: Process Rule
         run: |
-          python Scripts/Build.py Egern Egern
-          python Scripts/Build.py Singbox Singbox
+          python Build.py Egern Egern
+          python Build.py Singbox Singbox
 
       - name: Compile Rule
         run: |
