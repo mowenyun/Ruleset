@@ -38,7 +38,6 @@ jobs:
           sudo mv "sing-box-${SING_BOX_VERSION}-linux-amd64/sing-box" /usr/local/bin/sing-box
           sing-box version
           find Singbox -type f -name "*.json" | while read -r file; do
-            [ ! -f "$file" ] && echo "$file not found." && continue
             sing-box rule-set compile "$file" -o "${file%.json}.srs"
           done
 
