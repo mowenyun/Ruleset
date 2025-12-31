@@ -21,15 +21,16 @@ jobs:
           repository: blackmatrix7/ios_rule_script
           path: ios_rule_script
 
-      - name: Prepare Rule
+      - name: Prepare Rules
         run: bash Build.sh
 
-      - name: Process Rule
-        run: |
-          python Build.py Egern Egern
-          python Build.py Singbox Singbox
+      - name: Process Egern
+        run: python Build.py Egern Egern
 
-      - name: Compile Rule
+      - name: Process Singbox
+        run: python Build.py Singbox Singbox
+
+      - name: Compile Rules
         run: |
           curl -fsSL -o sing-box.tar.gz "https://github.com/SagerNet/sing-box/releases/download/v${SING_BOX_VERSION}/sing-box-${SING_BOX_VERSION}-linux-amd64.tar.gz"
           tar -xzf sing-box.tar.gz
