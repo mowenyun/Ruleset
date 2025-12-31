@@ -2,6 +2,7 @@
 
 import json
 import sys
+import shutil
 import argparse
 from pathlib import Path
 from collections import defaultdict
@@ -23,6 +24,21 @@ SINGBOX_RULE_MAP = {
     "IP-CIDR": "ip_cidr",
     "IP-CIDR6": "ip_cidr"
 }
+
+def rules_copy():
+    source_path = Path("ios_rule_script/rule/Clash")
+    egern_path, singbox_path = Path("Egern"), Path("Singbox")
+    for path in (egern_path, singbox_path):
+        if path.exists():
+            shutil.rmtree(path)
+        path.mkdir(parents=True, exist_ok=True)
+    for file_path in source_path.rglob("*.list"):
+        relative = file_path.relative_to(source_path)
+        for base, suffix in ((egern_path, ".yaml"), (singbox_path, ".json")):
+            target = base / relative.with_suffix(suffix)
+            target.parent.mkdir(parents=True, exist_ok=True)
+            shutil.copy(file_path, target)
+    print("All Ruleset Processed!")
 
 def rules_load(file_path: Path):
     rule_data = []
@@ -94,22 +110,23 @@ def process_singbox(file_path: Path):
 
 def main():
     parser = argparse.ArgumentParser(description="规则构建工具")
-    parser.add_argument("platform", choices=["Egern", "Singbox"])
-    parser.add_argument("file_path", type=Path, help="规则文件或者路径")
+    parser.add_argument("platform", nargs="?", choices=["Egern", "Singbox"], help="指定平台处理规则")
+    parser.add_argument("file_path", nargs="?", type=Path, help="规则文件或者路径")
     args = parser.parse_args()
-    platform_map = {"Egern": process_egern, "Singbox": process_singbox}
-    process_func = platform_map[args.platform]
-    if not args.file_path.exists():
+    if not args.platform:
+        rules_copy()
+        return
+    process_func = {"Egern": process_egern, "Singbox": process_singbox}[args.platform]
+    if not args.file_path or not args.file_path.exists():
         sys.exit(f"{args.file_path} not found or unsupported type.")
-    files_to_process = []
     if args.file_path.is_file():
-        files_to_process = [args.file_path]
-    elif args.file_path.is_dir():
-        files_to_process = sorted(f for f in args.file_path.rglob("*") if f.is_file())
-    if not files_to_process:
+        files = [args.file_path]
+    else:
+        files = sorted(f for f in args.file_path.rglob("*") if f.is_file())
+    if not files:
         print(f"No files found in: {args.file_path}")
         return
-    for f in files_to_process:
+    for f in files:
         try:
             process_func(f)
         except Exception as e:
