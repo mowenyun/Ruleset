@@ -109,28 +109,23 @@ def process_singbox(file_path: Path):
         f.write(f"https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/{srs_relative.as_posix()}")
 
 def main():
-    parser = argparse.ArgumentParser(description="规则构建工具")
-    parser.add_argument("platform", nargs="?", choices=["Egern", "Singbox"], help="指定平台处理规则")
-    parser.add_argument("file_path", nargs="?", type=Path, help="规则文件或者路径")
+    parser = argparse.ArgumentParser("规则转换脚本")
+    parser.add_argument("platform", nargs="?", choices=["Egern", "Singbox"])
+    parser.add_argument("file_path", nargs="?", type=Path)
     args = parser.parse_args()
     if not args.platform:
-        rules_copy()
-        return
+        return rules_copy()
     process_func = {"Egern": process_egern, "Singbox": process_singbox}[args.platform]
-    if not args.file_path or not args.file_path.exists():
-        sys.exit(f"{args.file_path} not found or unsupported type.")
-    if args.file_path.is_file():
-        files = [args.file_path]
-    else:
-        files = sorted(f for f in args.file_path.rglob("*") if f.is_file())
+    path = args.file_path
+    if not path or not path.exists():
+        sys.exit(f"{path} not found or unsupported type.")
+    files = [path] if path.is_file() else sorted(f for f in path.rglob("*") if f.is_file())
     if not files:
-        print(f"No files found in: {args.file_path}")
+        print(f"No files found in: {path}")
         return
     for f in files:
-        try:
-            process_func(f)
-        except Exception as e:
-            print(f"Failed to process {f}: {e}")
+        try: process_func(f)
+        except Exception as e: print(f"Failed to process {f}: {e}")
     print("Processed Completed.")
 
 if __name__ == "__main__":
