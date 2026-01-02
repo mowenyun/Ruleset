@@ -114,7 +114,7 @@ def main():
     parser.add_argument("file_path", nargs="?", type=Path)
     args = parser.parse_args()
     if not args.platform:
-        return rules_copy()
+        return process_copy()
     convert_function = {"Egern": convert_egern, "Singbox": convert_singbox}[args.platform]
     path = args.file_path
     if not path or not path.exists():
