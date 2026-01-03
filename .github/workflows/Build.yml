@@ -21,7 +21,7 @@ jobs:
           repository: blackmatrix7/ios_rule_script
           path: ios_rule_script
 
-      - name: Prepare Rule
+      - name: Produce Rule
         run: |
           python Build.py
 
