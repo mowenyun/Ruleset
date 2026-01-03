@@ -33,11 +33,11 @@ def process_copy():
             shutil.rmtree(path)
         path.mkdir(parents=True, exist_ok=True)
     for file_path in source_path.rglob("*.list"):
-        relative = file_path.relative_to(source_path)
+        relative_path = file_path.relative_to(source_path)
         for base, suffix in ((egern_path, ".yaml"), (singbox_path, ".json")):
-            target = base / relative.with_suffix(suffix)
-            target.parent.mkdir(parents=True, exist_ok=True)
-            shutil.copy(file_path, target)
+            target_path = base / relative_path.with_suffix(suffix)
+            target_path.parent.mkdir(parents=True, exist_ok=True)
+            shutil.copy(file_path, target_path)
     print("All Ruleset Processed!")
 
 def content_read(file_path: Path):
