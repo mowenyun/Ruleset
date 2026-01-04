@@ -21,16 +21,16 @@ jobs:
           repository: blackmatrix7/ios_rule_script
           path: ios_rule_script
 
-      - name: Produce Rule
+      - name: Rule Source
         run: |
           python Build.py
 
-      - name: Convert Rule
+      - name: Rule Convert
         run: |
           python Build.py Egern Egern
           python Build.py Singbox Singbox
 
-      - name: Compile Rule
+      - name: Rule Compile
         run: |
           curl -fsSL -o sing-box.tar.gz "https://github.com/SagerNet/sing-box/releases/download/v${SING_BOX_VERSION}/sing-box-${SING_BOX_VERSION}-linux-amd64.tar.gz"
           tar -xzf sing-box.tar.gz
@@ -41,7 +41,7 @@ jobs:
             sing-box rule-set compile "$file" -o "${file%.json}.srs"
           done
 
-      - name: Push Update
+      - name: Push Commit
         run: |
           if [[ -n $(git status -s) ]]; then
             git config --local user.email "${{ github.actor }}@users.noreply.github.com"
