@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 6710
+# 规则统计: 6715
 
 no_resolve: true
 domain_set:
@@ -229,6 +229,7 @@ domain_suffix_set:
   - ai-kan.net
   - ai-wen.net
   - ai.dev
+  - ai.studio
   - aiosearch.com
   - aiph.net
   - airasia.com
@@ -1363,6 +1364,7 @@ domain_suffix_set:
   - dayabook.com
   - daylife.com
   - dayone.me
+  - dazn.com
   - db.tt
   - dbc.hk
   - dbgjd.com
@@ -4069,6 +4071,8 @@ domain_suffix_set:
   - onthehunt.com
   - ontrac.com
   - oojj.de
+  - ooni.io
+  - ooni.org
   - oopsforum.com
   - ooyala.com
   - open.com.hk
@@ -6308,6 +6312,7 @@ domain_suffix_set:
   - xbookcn.com
   - xbtce.com
   - xcafe.in
+  - xcancel.com
   - xcity.jp
   - xclient.info
   - xcritic.com
