@@ -1,5 +1,5 @@
 # 规则名称: ChinaTest
-# 规则统计: 114549
+# 规则统计: 114551
 
 no_resolve: true
 domain_set:
@@ -37392,6 +37392,7 @@ domain_suffix_set:
   - fnkvision.com
   - fnmobi.com
   - fnnas.com
+  - fnnas.net
   - fnnsh.com
   - fnnspa.com
   - fnos.net
@@ -90187,6 +90188,7 @@ domain_suffix_set:
   - tapai.com
   - tapaijiu.com
   - tapapis.com
+  - tapapks.com
   - tapas.net
   - tapbooster.net
   - tapdata.net
