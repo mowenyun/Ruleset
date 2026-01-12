@@ -68,8 +68,8 @@ def convert_egern(file_path: Path):
     rule_dict = defaultdict(list)
     no_resolve = False
     for style, value, field in content_read(file_path):
+        no_resolve |= field == "no-resolve"
         if style in EGERN_RULE_MAP:
-            no_resolve |= field == "no-resolve"
             rule_type = EGERN_RULE_MAP[style]
             rule_value = f'"{value}"' if rule_type in EGERN_RULE_QUOTE else value
             rule_dict[rule_type].append(rule_value)
