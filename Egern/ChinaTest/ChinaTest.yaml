@@ -1,5 +1,5 @@
 # 规则名称: ChinaTest
-# 规则统计: 114551
+# 规则统计: 114555
 
 no_resolve: true
 domain_set:
@@ -33829,6 +33829,7 @@ domain_suffix_set:
   - easytite.com
   - easytocn.com
   - easytogophuket.com
+  - easytomessage.com
   - easytouch-manager.com
   - easytouch.com
   - easyv.cloud
@@ -68928,6 +68929,7 @@ domain_suffix_set:
   - mobotap.com
   - mobring.co
   - mobrtb.com
+  - mobsdks.com
   - mobsurl.com
   - mobtou.com
   - mobvoi.com
@@ -81648,6 +81650,7 @@ domain_suffix_set:
   - school888.com
   - schoolinweb.com
   - schoolpi.net
+  - schoopia.com
   - schstv.com
   - scht.cc
   - schwarzeni.com
@@ -92133,6 +92136,7 @@ domain_suffix_set:
   - tongxue.com
   - tongxue365.com
   - tongxue8.com
+  - tongxuepie.com
   - tongyangship.com
   - tongyaoplay.com
   - tongyavisa.com
