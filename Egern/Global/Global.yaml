@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 32845
+# 规则统计: 32850
 
 no_resolve: true
 domain_set:
@@ -8062,6 +8062,8 @@ domain_suffix_set:
   - encoretvb.com
   - encryptedsni.com
   - encuentroscasualesoecuador.com
+  - eneba.com
+  - eneba.games
   - enema-porn.com
   - enema-videos.com
   - enemabasics.com
@@ -9917,6 +9919,7 @@ domain_suffix_set:
   - gentoo.org
   - geobasket.ru
   - geodesummit.com
+  - geogebra.org
   - geohazard.ac.uk
   - geolytics.com
   - geoport.com
@@ -17544,6 +17547,7 @@ domain_suffix_set:
   - okx-dns.com
   - okx-dns1.com
   - okx-dns2.com
+  - okx.cab
   - olabloga.pl
   - oldbury.ac.uk
   - older-women-movies.com
@@ -24703,6 +24707,7 @@ domain_suffix_set:
   - wiiugamepad.com
   - wiivc.net
   - wikawika.xyz
+  - wiki.gg
   - wikia.nocookie.net
   - wikia.org
   - wikidot.com

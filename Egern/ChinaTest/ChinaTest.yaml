@@ -1,5 +1,5 @@
 # 规则名称: ChinaTest
-# 规则统计: 114028
+# 规则统计: 114031
 
 no_resolve: true
 domain_set:
@@ -16606,6 +16606,7 @@ domain_suffix_set:
   - baimda.com
   - baimei.com
   - baimeidashu.com
+  - baimiao.tech
   - baimiaoapp.com
   - baimin.com
   - baina.com
@@ -79241,6 +79242,7 @@ domain_suffix_set:
   - redmart.com
   - redmou.com
   - rednetdns.com
+  - rednotecdn.com
   - redocn.com
   - redodopower.com
   - redoop.com
@@ -83733,6 +83735,7 @@ domain_suffix_set:
   - shineoptics.com
   - shineray-motors.com
   - shinerayad.com
+  - shinescan.tech
   - shinetsu.shop
   - shineu.com
   - shineway.com
