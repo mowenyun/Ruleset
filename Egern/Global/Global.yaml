@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 32850
+# 规则统计: 32851
 
 no_resolve: true
 domain_set:
@@ -3551,6 +3551,7 @@ domain_suffix_set:
   - binance.vision
   - binanceapi.com
   - binancecnt.com
+  - binanceru.net
   - binancezh.be
   - binancezh.biz
   - binancezh.co
