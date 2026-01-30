@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 6722
+# 规则统计: 6724
 
 no_resolve: true
 domain_set:
@@ -79,6 +79,7 @@ domain_suffix_set:
   - 25u.com
   - 2du5.com
   - 2lipstube.com
+  - 2mdn.net
   - 2shared.com
   - 2waky.com
   - 3-a.net
@@ -511,6 +512,7 @@ domain_suffix_set:
   - babylonbee.com
   - babynet.com.hk
   - backchina.com
+  - backend-v2.crixet.com
   - backpackers.com.tw
   - backtotiananmen.com
   - bad.news

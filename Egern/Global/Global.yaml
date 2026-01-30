@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 32851
+# 规则统计: 32866
 
 no_resolve: true
 domain_set:
@@ -73,7 +73,6 @@ domain_set:
   - practivate.adobe.ipp
   - practivate.adobe.newoa
   - practivate.adobe.ntp
-  - pubg1.battleye.com
   - public-us-pingsx.api.clonoth.com
   - push-apple.com.akadns.net
   - qualcomm.sc.omtrdc.net
@@ -138,6 +137,7 @@ domain_suffix_set:
   - 101boyvideos.com
   - 101tubeporn.com
   - 101xxx.xyz
+  - 1024terabox.com
   - 10bet.com
   - 10c10qoo.one
   - 10xfotolia.com
@@ -340,7 +340,6 @@ domain_suffix_set:
   - 2kgames.com
   - 2lib.org
   - 2mdn-cn.net
-  - 2mdn.net
   - 30plusgirls.com
   - 35s4.com
   - 360autodesk.com
@@ -2208,7 +2207,9 @@ domain_suffix_set:
   - ark.to
   - arm.ac.uk
   - arma.ac.uk
+  - arma3.com
   - armagh.ac.uk
+  - armaplatform.com
   - armovs.com
   - arnold-carlton.ac.uk
   - arnoldrenderer.com
@@ -2911,6 +2912,7 @@ domain_suffix_set:
   - battlefront2.com
   - battlefrontii.com
   - battlelog.com
+  - battleye.com
   - bavs.ac.uk
   - baxsound.com
   - bayareabmw.com
@@ -3358,6 +3360,7 @@ domain_suffix_set:
   - bestbuytradein.com
   - bestbuyus.com
   - bestcamsites.net
+  - bestclouddrive.com
   - besterpornos.com
   - bestescortgirls.nl
   - bestfreecams.club
@@ -3617,6 +3620,7 @@ domain_suffix_set:
   - bisi.ac.uk
   - bisq.io
   - bisq.network
+  - bistudio.com
   - bisyoujyogyaruge.topaz.ne.jp
   - bitballoon.com
   - bitbank.cc
@@ -4253,6 +4257,7 @@ domain_suffix_set:
   - bodyfluids-jav.com
   - bognor-training.ac.uk
   - bognor.ac.uk
+  - bohemia.net
   - boj.or.jp
   - bokep.net
   - bokepseks.org
@@ -6141,6 +6146,7 @@ domain_suffix_set:
   - criticalfriend.ac.uk
   - criticaltheology.ac.uk
   - critiquebrainz.org
+  - crixet.com
   - crmdynint-gcc.com
   - crmdynint.com
   - crocels.ac.uk
@@ -6454,6 +6460,7 @@ domain_suffix_set:
   - daylenerio.com
   - daytonbmw.com
   - daytontrucktires.com
+  - dayz.com
   - dazn-api.com
   - dazndn.com
   - daznfeeds.com
@@ -9550,6 +9557,7 @@ domain_suffix_set:
   - freesexyindians.org
   - freesitexxx.com
   - freessl.com
+  - freeterabox.com
   - freeuseporn.com
   - freeviewplus.net.au
   - freexvideos.org
@@ -14656,6 +14664,7 @@ domain_suffix_set:
   - mairbeats.com
   - makaan.com
   - makeanything.com
+  - makearmanotwar.com
   - makebettercode.com
   - makecode.org
   - makeitopen.com
@@ -17781,6 +17790,7 @@ domain_suffix_set:
   - osmosis.ac.uk
   - ospray.net
   - ospray.org
+  - ospserver.net
   - oss-ap-northeast-1.aliyuncs.com
   - oss-ap-northeast-2.aliyuncs.com
   - oss-ap-south-1.aliyuncs.com
@@ -20940,6 +20950,7 @@ domain_suffix_set:
   - sihe.ac.uk
   - sikh-uni.ac.uk
   - sikiswap.com
+  - silicagame.com
   - silicon-mobility.com
   - siliconmobility.com
   - silkengirl.com
@@ -22317,6 +22328,7 @@ domain_suffix_set:
   - tempusuk.ac.uk
   - tenbyfotolia.com
   - tentowns.ac.uk
+  - terabox1024.com
   - terapeack.com
   - terapeak.ca
   - terapeak.com
@@ -23839,6 +23851,7 @@ domain_suffix_set:
   - viewerswives.net
   - viewgals.com
   - viewpointsfromfacebook.com
+  - vigorgame.com
   - vikiporn.com
   - vilavpn.xyz
   - vilavpn1.xyz
@@ -25695,6 +25708,7 @@ domain_suffix_set:
   - yiqiedoushiganggangkaishi.org
   - yiyechat.com
   - yjcontentdelivery.com
+  - ylands.com
   - ymail.com
   - ymca-wales.ac.uk
   - ymca.ac.uk
@@ -26247,6 +26261,7 @@ domain_suffix_set:
   - 25u.com
   - 2du5.com
   - 2lipstube.com
+  - 2mdn.net
   - 2shared.com
   - 2waky.com
   - 3-a.net
