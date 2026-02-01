@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 6724
+# 规则统计: 6726
 
 no_resolve: true
 domain_set:
@@ -79,7 +79,6 @@ domain_suffix_set:
   - 25u.com
   - 2du5.com
   - 2lipstube.com
-  - 2mdn.net
   - 2shared.com
   - 2waky.com
   - 3-a.net
@@ -2030,6 +2029,7 @@ domain_suffix_set:
   - freess.org
   - freessh.us
   - freetcp.com
+  - freeterabox.com
   - freetibet.net
   - freetibet.org
   - freetibetanheroes.org
@@ -4863,6 +4863,7 @@ domain_suffix_set:
   - sijihuisuo.com
   - silkbook.com
   - silvergatebank.com
+  - simianx.ai
   - simp.ly
   - simplecd.me
   - simplecd.org
@@ -6453,6 +6454,7 @@ domain_suffix_set:
   - yesasia.com
   - yesasia.com.hk
   - yeyeclub.com
+  - yfsp.tv
   - ygto.com
   - yhcw.net
   - yibada.com
