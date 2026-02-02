@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 6726
+# 规则统计: 6727
 
 no_resolve: true
 domain_set:
@@ -556,6 +556,7 @@ domain_suffix_set:
   - bbc.co.uk
   - bbc.com
   - bbc.in
+  - bbc.pdn.tritondigital.com
   - bbcchinese.com
   - bbchat.tv
   - bbci.co.uk
