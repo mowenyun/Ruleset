@@ -1,5 +1,5 @@
 # 规则名称: ChinaTest
-# 规则统计: 115041
+# 规则统计: 115057
 
 no_resolve: true
 domain_set:
@@ -12320,6 +12320,7 @@ domain_suffix_set:
   - 9377os.com
   - 9377s.com
   - 9377z.com
+  - 9378.com
   - 93913.com
   - 939394.xyz
   - 93966.com
@@ -25251,6 +25252,7 @@ domain_suffix_set:
   - chmti.com
   - chn-cstc.com
   - chn-das.com
+  - chn-new-9sport.com
   - chn0769.com
   - chn112.com
   - chn168.com
@@ -27927,6 +27929,7 @@ domain_suffix_set:
   - cpeol.net
   - cpepgc.com
   - cpfia.org
+  - cpfwzs.com
   - cpg-motor.com
   - cphfgg.com
   - cphiic.com
@@ -28862,6 +28865,7 @@ domain_suffix_set:
   - cs27.com
   - cs2c.com
   - cs2ccloud.com
+  - cs2pw.com
   - cs30.net
   - cs451.com
   - cs48.com
@@ -30967,6 +30971,7 @@ domain_suffix_set:
   - dealsmake.com
   - deansys.com
   - dear520dear.com
+  - dearclick.com
   - dearda.com
   - dearedu.com
   - dearisland.com
@@ -35928,6 +35933,7 @@ domain_suffix_set:
   - excoino.com
   - exd.design
   - exdoll.com
+  - exedus.com.co
   - exeedcars.com
   - exexm.com
   - exezhanqun.com
@@ -49691,6 +49697,7 @@ domain_suffix_set:
   - horosama.com
   - horou.com
   - horphoto.com
+  - horsebrowser.com
   - horsechinaone.com
   - horti-expo2019.com
   - hortor-comic.com
@@ -52749,6 +52756,7 @@ domain_suffix_set:
   - ic-ldo.com
   - ic-leasing.com
   - ic-mag.com
+  - ic-spic.com
   - ic-valley.com
   - ic001.org
   - ic2china.com
@@ -62232,6 +62240,7 @@ domain_suffix_set:
   - kwaiying.com
   - kwangfeng.com
   - kwggroupholdings.com
+  - kwicdn.com
   - kwimgs.com
   - kwinbon.com
   - kwise-log.com
@@ -74838,6 +74847,7 @@ domain_suffix_set:
   - paihang8.com
   - paihb.com
   - paihotels.cc
+  - paihuisy.com
   - paikew.com
   - paiky.com
   - paiky.net
@@ -75391,7 +75401,9 @@ domain_suffix_set:
   - peipusci.com
   - peise.net
   - peisebiao.com
+  - peiwan.tv
   - peiwanlu.com
+  - peiwantv.com
   - peixianedu.com
   - peixiang.com
   - peixinbao.com
@@ -90955,6 +90967,7 @@ domain_suffix_set:
   - tdchats.us
   - tdchatvip.us
   - tddmp.com
+  - tdfsm.com
   - tdgdy.org
   - tdgod.com
   - tdiac.com
@@ -93849,6 +93862,7 @@ domain_suffix_set:
   - tv002.com
   - tv121.com
   - tv189.com
+  - tv2-zuqiu.com
   - tv20806.com
   - tv373.com
   - tvandnet.com
@@ -101298,6 +101312,7 @@ domain_suffix_set:
   - xhytd.com
   - xhyun.vip
   - xhzysg.com
+  - xi-9.com
   - xi-soft.com
   - xi.su
   - xi5jie.com
@@ -107986,6 +108001,7 @@ domain_suffix_set:
   - yousheyoujia.com
   - youshibeike.com
   - youshifu.com
+  - youshihui.cc
   - youshikoudai.com
   - youshixiu.com
   - youshop01.com

@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 32874
+# 规则统计: 32878
 
 no_resolve: true
 domain_set:
@@ -4578,6 +4578,7 @@ domain_suffix_set:
   - bs-adreview.com
   - bs-awh.ne.jp
   - bsa.ac.uk
+  - bsappapi.com
   - bsaw.ac.uk
   - bsbec.ac.uk
   - bsdc.ac.uk
@@ -18455,6 +18456,7 @@ domain_suffix_set:
   - pjbyj.top
   - pjful-app.lol
   - pjgirls.com
+  - pjsekai.sega.jp
   - pki-post.ch
   - pki-posta.ch
   - pki-poste.ch
@@ -20121,6 +20123,7 @@ domain_suffix_set:
   - salebeatslasteststyle4you.com
   - saleblackfridaydrebeats.com
   - salecheaphandbags.com
+  - salesforce-setup.com
   - salesforce.com
   - salesforce.org
   - salesforceiq.com
@@ -31337,6 +31340,7 @@ domain_suffix_set:
   - tagwa.org.au
   - tagwalk.com
   - tahr.org.tw
+  - tails.net
   - taipei.gov.tw
   - taipeisociety.org
   - taipeitimes.com

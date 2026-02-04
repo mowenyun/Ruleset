@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 6727
+# 规则统计: 6728
 
 no_resolve: true
 domain_set:
@@ -5206,6 +5206,7 @@ domain_suffix_set:
   - tagwa.org.au
   - tagwalk.com
   - tahr.org.tw
+  - tails.net
   - taipei.gov.tw
   - taipeisociety.org
   - taipeitimes.com
