@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 6728
+# 规则统计: 6729
 
 no_resolve: true
 domain_set:
@@ -4760,6 +4760,7 @@ domain_suffix_set:
   - seesmic.com
   - seevpn.com
   - seezone.net
+  - sef.org.tw
   - sehuatang.net
   - sehuatang.org
   - sejie.com

@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 32878
+# 规则统计: 32880
 
 no_resolve: true
 domain_set:
@@ -17794,6 +17794,7 @@ domain_suffix_set:
   - osiri-suki-club.com
   - osl.com
   - osm.org
+  - osmand.net
   - osmfoundation.org
   - osmosis.ac.uk
   - ospray.net
@@ -30901,6 +30902,7 @@ domain_suffix_set:
   - seesmic.com
   - seevpn.com
   - seezone.net
+  - sef.org.tw
   - sehuatang.net
   - sehuatang.org
   - sejie.com
