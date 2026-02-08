@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 6729
+# 规则统计: 6733
 
 no_resolve: true
 domain_set:
@@ -675,6 +675,7 @@ domain_suffix_set:
   - bitshare.com
   - bitsnoop.com
   - bitterwinter.org
+  - bittorrent.com
   - bitvise.com
   - bitz.ai
   - bizhat.com
@@ -2362,6 +2363,7 @@ domain_suffix_set:
   - greenvpn.org
   - grindr.com
   - grok.com
+  - grokipedia.com
   - grotty-monday.com
   - ground.news
   - gs-discuss.com
@@ -2463,6 +2465,7 @@ domain_suffix_set:
   - helpshift.com
   - helpster.de
   - helpzhuling.org
+  - hembed.com
   - hentai.to
   - hentaitube.tv
   - hentaivideoworld.com
@@ -5911,6 +5914,7 @@ domain_suffix_set:
   - v.gd
   - v.roucdn
   - v2.help
+  - v2.hysteria.network
   - v2ex.co
   - v2ex.com
   - v2fly.org
