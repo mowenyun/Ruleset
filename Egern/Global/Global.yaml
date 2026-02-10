@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 32889
+# 规则统计: 32915
 
 no_resolve: true
 domain_set:
@@ -113,6 +113,7 @@ domain_set:
   - widgets.stripst.com
   - wrds-www.wharton.upenn.edu
   - www-cdn.icloud.com.akadns.net
+  - yandex-pogoda.static-storage.net
   - yangzhi.app
   - ztedevices.com
   - api.waqi.info
@@ -337,7 +338,10 @@ domain_suffix_set:
   - 2gayboys.com
   - 2k.com
   - 2kcoretech.online
+  - 2kct.onl
   - 2kgames.com
+  - 2ksports.com
+  - 2kweb.online
   - 2lib.org
   - 2mdn-cn.net
   - 2mdn.net
@@ -765,6 +769,7 @@ domain_suffix_set:
   - acer.ac.uk
   - acer.com
   - aces.ac.uk
+  - acesofthunder.net
   - acets.ac.uk
   - acgcf.com
   - acgdg.com
@@ -798,6 +803,7 @@ domain_suffix_set:
   - activatelearning.ac.uk
   - activelearnprimary.co.uk
   - activelearnprimary.com.au
+  - activematter.game
   - activeteachonline.com
   - actofunion.ac.uk
   - actris.ac.uk
@@ -2237,6 +2243,7 @@ domain_suffix_set:
   - artsresearchatnorthampton.ac.uk
   - artstationmedia.com
   - artstor.org
+  - artstorm.com
   - aru.ac.uk
   - arukas.io
   - arupoc.ac.uk
@@ -5808,6 +5815,8 @@ domain_suffix_set:
   - codei.sh
   - codeish.co
   - codeish.io
+  - codeium.com
+  - codeiumdata.com
   - codeplex.com
   - coderabbit.ai
   - codespot.com
@@ -6164,6 +6173,7 @@ domain_suffix_set:
   - crossborderexpansion.com
   - crossfitfirestone.com
   - crossmediapanel.com
+  - crossout.net
   - crosswalk-project.com
   - crosswalk-project.net
   - crowdtangle.com
@@ -6174,6 +6184,7 @@ domain_suffix_set:
   - croydonsec.ac.uk
   - crr.com
   - crsbi.ac.uk
+  - crsed.net
   - crsp.ac.uk
   - crtsgfb1.top
   - crucible-cetl.ac.uk
@@ -6233,6 +6244,7 @@ domain_suffix_set:
   - cttoolkit.ac.uk
   - ctv.com.tw
   - cubicmotion.com
+  - cubicodyssey.game
   - cubo.ac.uk
   - cuc.ac.uk
   - cuckfilmswifefuck.com
@@ -8133,6 +8145,7 @@ domain_suffix_set:
   - enhancementthemes.ac.uk
   - enjoyasianporn.com
   - enjoyfuck.com
+  - enlisted.net
   - enmat.ac.uk
   - enorf.ac.uk
   - enos.ac.uk
@@ -9733,6 +9746,8 @@ domain_suffix_set:
   - gacebook.com
   - gaelicstoryatgu.ac.uk
   - gaia.ac.uk
+  - gaijin.net
+  - gaijinent.com
   - gainsborough.ac.uk
   - gaito.xyz
   - galaxyappstore.com
@@ -15753,6 +15768,7 @@ domain_suffix_set:
   - modelsfreecams.com
   - modelsofauthority.ac.uk
   - modeltv.com
+  - modernwarships.com
   - modip.ac.uk
   - modmedmicro.ac.uk
   - modoo.at
@@ -19911,6 +19927,7 @@ domain_suffix_set:
   - rocksdb.net
   - rocksextube.com
   - rockstargames.com
+  - rockstarnorth.com
   - roco.qq.com
   - rodbaston.ac.uk
   - roe.ac.uk
@@ -21622,6 +21639,7 @@ domain_suffix_set:
   - stanmore.ac.uk
   - stanstedairportcollege.ac.uk
   - star-brasil.com
+  - star-conflict.com
   - star-latam.com
   - star.ac.uk
   - starbucks-stars.com
@@ -24462,6 +24480,7 @@ domain_suffix_set:
   - warp.plus
   - warr.ac.uk
   - warrington.ac.uk
+  - warthunder.com
   - warwick.ac.uk
   - warwickequine.ac.uk
   - warwickhri.ac.uk
@@ -24773,6 +24792,8 @@ domain_suffix_set:
   - windowssearch.com
   - windowsuem.com
   - windsor-forest.ac.uk
+  - windsurf.build
+  - windsurf.com
   - windy.com
   - winhec.com
   - winhec.net
@@ -24944,6 +24965,7 @@ domain_suffix_set:
   - wsjwine.com
   - wspcr.ac.uk
   - wtc.ac.uk
+  - wtmobile.com
   - wto.org
   - wton-acl.ac.uk
   - wton-adulteducation.ac.uk
@@ -26198,6 +26220,9 @@ domain_suffix_set:
   - zweiporn.com
   - zwtvusa.com
   - zynaima.com
+  - zynga.com
+  - zyngaplayersupport.com
+  - zyngapoker.com
   - zyzc9.com
   - zzdh.biz
   - zzdh.cc
@@ -32350,6 +32375,7 @@ domain_suffix_set:
   - wikipedia.com
   - wikipedia.org
   - wikiquote.org
+  - wikis.tw
   - wikisource.org
   - wikiunblocked.org
   - wikiversity.org

@@ -1,9 +1,8 @@
 # 规则名称: Apple
-# 规则统计: 1576
+# 规则统计: 1579
 
 no_resolve: true
 domain_set:
-  - appldnld.apple.com.edgesuite.net
   - apple-events.akamaized.net
   - appleworldwidedeveloper.hb-api.omtrdc.net
   - appleworldwidedeveloper.sc.omtrdc.net
@@ -62,6 +61,7 @@ domain_suffix_set:
   - appl.com
   - appl4e.com
   - appla.com
+  - appldnld.apple.com.edgesuite.net
   - apple-darwin.com
   - apple-darwin.net
   - apple-darwin.org
@@ -1194,6 +1194,7 @@ domain_suffix_set:
   - applepaysupplies.tv
   - applewallet.com
   - applewallet.tv
+  - appsto.re
   - appstore.co.id
   - appstore.com
   - appstore.hk
@@ -1507,8 +1508,6 @@ domain_suffix_set:
   - musickit.net
   - wwwapplemusic.com
   - apple-dns.net
-  - appsto.re
-  - cdn-apple.com
   - digicert.com
   - apple-cloudkit.com
   - apple-icloud.cn
@@ -1516,6 +1515,7 @@ domain_suffix_set:
   - appleicloud.cn
   - applemx-icloud.com
   - apzones.com
+  - cdn-apple.com
   - icloud-apple.cn
   - icloud-content.com
   - icloud-isupport.com
@@ -1582,3 +1582,7 @@ ip_cidr_set:
   - 205.180.175.0/24
   - 63.92.224.0/19
   - 65.199.22.0/23
+ip_cidr6_set:
+  - 2403:300::/32
+  - 2620:149::/32
+  - 2a01:b740::/32
