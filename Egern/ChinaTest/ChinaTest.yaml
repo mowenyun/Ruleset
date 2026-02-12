@@ -1,5 +1,5 @@
 # 规则名称: ChinaTest
-# 规则统计: 116334
+# 规则统计: 116342
 
 no_resolve: true
 domain_set:
@@ -31017,6 +31017,7 @@ domain_suffix_set:
   - ddcdn.com
   - ddcheshi.com
   - ddcits.com
+  - ddcorp.net
   - ddcsjw.com
   - ddcwl.com
   - ddd-china.com
@@ -31033,6 +31034,7 @@ domain_suffix_set:
   - ddedush.com
   - ddfans.com
   - ddfchina.com
+  - ddfresh.net
   - ddfzb.com
   - ddgjjj.com
   - ddguanhuai.com
@@ -31056,7 +31058,9 @@ domain_suffix_set:
   - ddky.com
   - ddle.cc
   - ddlequ.com
+  - ddmaicai.net
   - ddmap.com
+  - ddmc.mobi
   - ddmer.com
   - ddnddn.com
   - ddnspod.com
@@ -50408,6 +50412,7 @@ domain_suffix_set:
   - hrtechchina.com
   - hrtfin.com
   - hrtn.net
+  - hrtsea.com
   - hrtx.com
   - hruikang.com
   - hrvouge.com
@@ -54126,6 +54131,7 @@ domain_suffix_set:
   - imagineadtech.com
   - imahui.com
   - imaibo.net
+  - imaicai.mobi
   - imaijia.com
   - imaitu.com
   - imalljoy.com
@@ -102494,6 +102500,7 @@ domain_suffix_set:
   - xhslink.com
   - xhslw.com
   - xhsmlt.com
+  - xhsrcdn.com
   - xhsrmyy.com
   - xhsxmt.com
   - xhsyqx.com
@@ -112991,6 +112998,7 @@ domain_suffix_set:
   - zhipianbang.com
   - zhipianbang.vip
   - zhipingke.com
+  - zhipucn.com
   - zhipuzi.com
   - zhiqi.info
   - zhiqiang.org

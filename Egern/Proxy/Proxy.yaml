@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 6734
+# 规则统计: 6727
 
 no_resolve: true
 domain_set:
@@ -213,7 +213,6 @@ domain_suffix_set:
   - advanscene.com
   - advertfan.com
   - advertisercommunity.com
-  - ae.hao123.com
   - ae.org
   - aei.org
   - aenhancers.com
@@ -566,7 +565,6 @@ domain_suffix_set:
   - bbs-tw.com
   - bbs.kimy.com.tw
   - bbs.qmzdd.com
-  - bbs.sina.com
   - bbs.tuitui.info
   - bbsdigest.com
   - bbsfeed.com
@@ -763,7 +761,6 @@ domain_suffix_set:
   - boyfriendtv.com
   - boysfood.com
   - boysmaster.com
-  - br.hao123.com
   - br.st
   - brainyquote.com
   - brandonhutchinson.com
@@ -1322,7 +1319,6 @@ domain_suffix_set:
   - dailidaili.com
   - dailymail.co.uk
   - dailymotion.com
-  - dailynews.sina.com
   - dailysabah.com
   - dailyview.tw
   - daiphapinfo.net
@@ -1664,7 +1660,6 @@ domain_suffix_set:
   - emule-ed2k.com
   - emulefans.com
   - emuparadise.me
-  - en.hao123.com
   - enanyang.my
   - encrypt.me
   - encyclopedia.com
@@ -2202,7 +2197,14 @@ domain_suffix_set:
   - getsync.com
   - gettr.com
   - gettrials.com
+  - gettyimages.ae
+  - gettyimages.ca
   - gettyimages.com
+  - gettyimages.de
+  - gettyimages.hk
+  - gettyimages.in
+  - gettyimages.it
+  - gettyimages.us
   - getuploader.com
   - gfbv.de
   - gfgold.com.hk
@@ -2523,7 +2525,6 @@ domain_suffix_set:
   - hjclub.info
   - hjd2048.com
   - hk-pub.com
-  - hk.hao123img.com
   - hk01.com
   - hk32168.com
   - hkacg.com
@@ -2585,7 +2586,6 @@ domain_suffix_set:
   - holymountaincn.com
   - holyspiritspeaks.org
   - home.saxo
-  - home.sina.com
   - home.so-net.net.tw
   - homedepot.com
   - homeperversion.com
@@ -2630,7 +2630,6 @@ domain_suffix_set:
   - hrea.org
   - hrichina.org
   - hrntt.org
-  - hrtsea.com
   - hrw.org
   - hrweb.org
   - hsex.men
@@ -2645,6 +2644,7 @@ domain_suffix_set:
   - html5rocks.com
   - https443.net
   - https443.org
+  - htx.com
   - hua-yue.net
   - huaglad.com
   - huanghuagang.org
@@ -2678,6 +2678,7 @@ domain_suffix_set:
   - hungerstrikeforaids.org
   - huobi.co
   - huobi.com
+  - huobi.li
   - huobi.me
   - huobi.pro
   - huobi.sc
@@ -2733,7 +2734,6 @@ domain_suffix_set:
   - iconpaper.org
   - icons8.com
   - icu-project.org
-  - id.hao123.com
   - idaiwan.com
   - idcflare.com
   - iddddg.com
@@ -3030,7 +3030,6 @@ domain_suffix_set:
   - journalchretien.net
   - journalofdemocracy.org
   - joymiihub.com
-  - jp.hao123.com
   - jpopforum.net
   - jqueryui.com
   - js.revsci.net
@@ -3196,7 +3195,6 @@ domain_suffix_set:
   - latibet.org
   - lausan.hk
   - lbank.info
-  - ld.hao123img.com
   - ldplayer.net
   - ldplayer.tw
   - le-vpn.com
@@ -3363,7 +3361,6 @@ domain_suffix_set:
   - m.plixi.com
   - m.slandr.net
   - m8008.com
-  - ma.hao123.com
   - macgamestore.com
   - macid.co
   - macromedia.com
@@ -3688,7 +3685,6 @@ domain_suffix_set:
   - mvdis.gov.tw
   - mvg.jp
   - mvnrepository.com
-  - mx.hao123.com
   - mx981.com
   - my-formosa.com
   - my-private-network.co.uk
@@ -4407,6 +4403,7 @@ domain_suffix_set:
   - privoxy.org
   - procopytips.com
   - project-syndicate.org
+  - prompthero.com
   - prosciana.com
   - prosiben.de
   - proton.me
@@ -4447,6 +4444,7 @@ domain_suffix_set:
   - puffinbrowser.com
   - puffstore.com
   - pugpig.com
+  - pullfolio.co
   - pullfolio.com
   - punyu.com
   - pure18.com
@@ -4691,7 +4689,6 @@ domain_suffix_set:
   - s1s1s1.com
   - s4miniarchive.com
   - s8forum.com
-  - sa.hao123.com
   - saboom.com
   - sacks.com
   - sacom.hk
@@ -5267,7 +5264,6 @@ domain_suffix_set:
   - tbrc.org
   - tbs-rainbow.org
   - tbsec.org
-  - tbskkinabalu.page.tl
   - tbsmalaysia.org
   - tbsn.org
   - tbsseattle.org
@@ -5327,7 +5323,6 @@ domain_suffix_set:
   - tg.dev
   - tgfcer.com
   - tgstat.com
-  - th.hao123.com
   - thaicn.com
   - thb.gov.tw
   - theatlantic.com
@@ -5677,7 +5672,6 @@ domain_suffix_set:
   - tvunetworks.com
   - tw-blog.com
   - tw-npo.org
-  - tw.hao123.com
   - tw01.org
   - twaitter.com
   - twapperkeeper.com
@@ -5991,7 +5985,6 @@ domain_suffix_set:
   - vllcs.org
   - vmixcore.com
   - vmpsoft.com
-  - vn.hao123.com
   - vnet.link
   - voa.mobi
   - voacambodia.com
