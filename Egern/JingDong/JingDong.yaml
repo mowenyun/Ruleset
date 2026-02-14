@@ -1,5 +1,5 @@
 # 规则名称: JingDong
-# 规则统计: 248
+# 规则统计: 249
 
 domain_suffix_set:
   - 1huizhan.com
@@ -233,6 +233,7 @@ domain_suffix_set:
   - qingzhouip.com
   - sgsic.com
   - shlsyb.com
+  - tjjt360.com
   - toplife.com
   - vg.com
   - wanggou.com
