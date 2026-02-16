@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 6727
+# 规则统计: 6728
 
 no_resolve: true
 domain_set:
@@ -6080,6 +6080,7 @@ domain_suffix_set:
   - wallpapercasa.com
   - wallproxy.com
   - wallsttv.com
+  - wallzhihu.com
   - waltermartin.com
   - waltermartin.org
   - wan-press.org

@@ -1,5 +1,5 @@
 # 规则名称: ChinaTest
-# 规则统计: 116342
+# 规则统计: 116340
 
 no_resolve: true
 domain_set:
@@ -80712,7 +80712,6 @@ domain_suffix_set:
   - redmart.com
   - redmou.com
   - rednetdns.com
-  - rednotecdn.com
   - redocn.com
   - redodopower.com
   - redoop.com
@@ -102500,7 +102499,6 @@ domain_suffix_set:
   - xhslink.com
   - xhslw.com
   - xhsmlt.com
-  - xhsrcdn.com
   - xhsrmyy.com
   - xhsxmt.com
   - xhsyqx.com
