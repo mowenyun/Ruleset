@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 6728
+# 规则统计: 6697
 
 no_resolve: true
 domain_set:
@@ -238,7 +238,6 @@ domain_suffix_set:
   - airtable.com
   - airvpn.org
   - aisex.com
-  - aiss.anws.gov.tw
   - ait.org.tw
   - aiv-cdn.net
   - aiv-cdn.net.c.footprint.net
@@ -424,7 +423,6 @@ domain_suffix_set:
   - archiveofourown.com
   - archiveofourown.org
   - archives.gov
-  - archives.gov.tw
   - arctosia.com
   - areca-backup.org
   - arena.taipei
@@ -1358,7 +1356,6 @@ domain_suffix_set:
   - dashlane.com
   - dastrassi.org
   - data-vocabulary.org
-  - data.gov.tw
   - datalabour.com
   - daum.net
   - david-kilgour.com
@@ -1737,7 +1734,6 @@ domain_suffix_set:
   - evernote.com
   - evozi.com
   - evschool.net
-  - exam.gov.tw
   - exblog.jp
   - exchristian.hk
   - excite.co.jp
@@ -1756,7 +1752,6 @@ domain_suffix_set:
   - extrabux.com
   - extremetube.com
   - exx.com
-  - ey.gov.tw
   - eyevio.jp
   - eyny.com
   - ezpc.tk
@@ -1765,7 +1760,6 @@ domain_suffix_set:
   - f-droid.org
   - f2pool.com
   - f8.com
-  - fa.gov.tw
   - fabric.io
   - faceless.me
   - facesofnyfw.com
@@ -1855,7 +1849,6 @@ domain_suffix_set:
   - fc2china.com
   - fc2cn.com
   - fc2web.com
-  - fda.gov.tw
   - fdbox.com
   - fdc64.de
   - fdc64.org
@@ -2260,6 +2253,7 @@ domain_suffix_set:
   - glype.com
   - gmauthority.com
   - gmgard.com
+  - gmgn.ai
   - gmhz.org
   - gmiddle.com
   - gmiddle.net
@@ -2620,7 +2614,6 @@ domain_suffix_set:
   - hoxx.com
   - hoy.tv
   - hoyolab.com
-  - hpa.gov.tw
   - hpjav.com
   - hqcdp.org
   - hqjapanesesex.com
@@ -2795,7 +2788,6 @@ domain_suffix_set:
   - imkev.com
   - imlive.co
   - imlive.com
-  - immigration.gov.tw
   - immoral.jp
   - imore.com
   - impact.org.au
@@ -2910,7 +2902,6 @@ domain_suffix_set:
   - isuntv.com
   - isupportuyghurs.org
   - itaboo.info
-  - itaiwan.gov.tw
   - italiatibet.org
   - itasoftware.com
   - itch.io
@@ -3038,7 +3029,6 @@ domain_suffix_set:
   - jshint.com
   - jtvnw.net
   - jubushoushen.com
-  - judicial.gov.tw
   - juhuaren.com
   - jukujo-club.com
   - juliepost.com
@@ -3352,7 +3342,6 @@ domain_suffix_set:
   - luxebc.com
   - lvhai.org
   - lvv2.com
-  - ly.gov.tw
   - lyfhk.net
   - lzjscript.com
   - lzmtnews.org
@@ -3578,7 +3567,6 @@ domain_suffix_set:
   - mixx.com
   - mizzmona.com
   - mji.rip
-  - mjib.gov.tw
   - mjj.rip
   - mk5000.com
   - mlc.ai
@@ -3596,20 +3584,16 @@ domain_suffix_set:
   - mod.io
   - modernchinastudies.org
   - modmyi.com
-  - moeaic.gov.tw
   - moeerolibrary.com
   - moegirl.org
   - moeshare.cc
-  - mofa.gov.tw
   - mofaxiehui.com
   - mofos.com
   - mog.com
   - mohu.club
   - mohu.ml
   - mohu.rocks
-  - moj.gov.tw
   - mojim.com
-  - mol.gov.tw
   - molihua.org
   - momoshop.com.tw
   - mondex.org
@@ -3682,7 +3666,6 @@ domain_suffix_set:
   - muzi.com
   - muzi.net
   - muzu.tv
-  - mvdis.gov.tw
   - mvg.jp
   - mvnrepository.com
   - mx981.com
@@ -3769,7 +3752,6 @@ domain_suffix_set:
   - naol.cc
   - narod.ru
   - nasa.gov
-  - nat.gov.tw
   - nat.moe
   - natado.com
   - national-lottery.co.uk
@@ -3874,7 +3856,6 @@ domain_suffix_set:
   - nga.mil
   - ngensis.com
   - nhentai.net
-  - nhi.gov.tw
   - nhk-ondemand.jp
   - nhncorp.jp
   - nianticlabs.com
@@ -3938,8 +3919,6 @@ domain_suffix_set:
   - noxinfluencer.com
   - noypf.com
   - npa.go.jp
-  - npa.gov.tw
-  - npm.gov.tw
   - npnt.me
   - nps.gov
   - npsboost.com
@@ -3955,11 +3934,7 @@ domain_suffix_set:
   - ns1.name
   - ns2.name
   - ns3.name
-  - nsc.gov.tw
   - nssurge.com
-  - ntbk.gov.tw
-  - ntbna.gov.tw
-  - ntbt.gov.tw
   - ntd.tv
   - ntdtv.ca
   - ntdtv.co.kr
@@ -4198,7 +4173,6 @@ domain_suffix_set:
   - pbxes.com
   - pbxes.org
   - pcanywhere.net
-  - pcc.gov.tw
   - pcdvd.com.tw
   - pcgamestorrents.com
   - pchome.com.tw
@@ -4760,7 +4734,6 @@ domain_suffix_set:
   - seesmic.com
   - seevpn.com
   - seezone.net
-  - sef.org.tw
   - sehuatang.net
   - sehuatang.org
   - sejie.com
@@ -5020,6 +4993,7 @@ domain_suffix_set:
   - sowers.org.hk
   - soylent.com
   - soylentnews.org
+  - spacex.com
   - spankbang.com
   - spankingtube.com
   - spankwire.com
@@ -5084,7 +5058,6 @@ domain_suffix_set:
   - starp2p.com
   - startpage.com
   - startuplivingchina.com
-  - stat.gov.tw
   - state.gov
   - static-economist.com
   - static.pocketcasts.com
@@ -5199,7 +5172,6 @@ domain_suffix_set:
   - taaze.tw
   - tablesgenerator.com
   - tabtter.jp
-  - tacc.cwb.gov.tw
   - tacem.org
   - taconet.com.tw
   - taedp.org.tw
@@ -5208,7 +5180,6 @@ domain_suffix_set:
   - tagwalk.com
   - tahr.org.tw
   - tails.net
-  - taipei.gov.tw
   - taipeisociety.org
   - taipeitimes.com
   - taisounds.com
@@ -5218,7 +5189,6 @@ domain_suffix_set:
   - taiwandaily.net
   - taiwandc.org
   - taiwanhot.net
-  - taiwanjobs.gov.tw
   - taiwanjustice.com
   - taiwanjustice.net
   - taiwankiss.com
@@ -5324,7 +5294,6 @@ domain_suffix_set:
   - tgfcer.com
   - tgstat.com
   - thaicn.com
-  - thb.gov.tw
   - theatlantic.com
   - theatrum-belli.com
   - theaustralian.com.au
@@ -5513,7 +5482,6 @@ domain_suffix_set:
   - tinypic.com
   - tinyurl.com
   - tipas.net
-  - tipo.gov.tw
   - tistory.com
   - tkcs-collins.com
   - tl.gd
@@ -5704,6 +5672,7 @@ domain_suffix_set:
   - twelve.today
   - twerkingbutt.com
   - twftp.org
+  - twgov.tw
   - twgreatdaily.com
   - twibase.com
   - twibble.de
@@ -6075,6 +6044,7 @@ domain_suffix_set:
   - wainao.me
   - waiwaier.com
   - walletconnect.com
+  - walletconnect.org
   - wallmama.com
   - wallornot.org
   - wallpapercasa.com
@@ -6110,7 +6080,6 @@ domain_suffix_set:
   - waybig.com
   - waymo.com
   - wd.bible
-  - wda.gov.tw
   - wdf5.com
   - wealth.com.tw
   - wearehairy.com

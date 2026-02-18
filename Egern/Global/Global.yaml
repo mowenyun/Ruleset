@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 32944
+# 规则统计: 33042
 
 no_resolve: true
 domain_set:
@@ -337,6 +337,20 @@ domain_suffix_set:
   - 2dgen.com
   - 2drdrebeats.com
   - 2gayboys.com
+  - 2gis.ae
+  - 2gis.am
+  - 2gis.az
+  - 2gis.by
+  - 2gis.com
+  - 2gis.com.cy
+  - 2gis.cz
+  - 2gis.ge
+  - 2gis.kg
+  - 2gis.kz
+  - 2gis.ru
+  - 2gis.tj
+  - 2gis.ua
+  - 2gis.uz
   - 2k.com
   - 2kcoretech.online
   - 2kct.onl
@@ -664,6 +678,7 @@ domain_suffix_set:
   - aave.com
   - aavs.xyz
   - abank.com.mm
+  - abb.travel
   - abbeygatesfc.ac.uk
   - abbeygatesixthformcollege.ac.uk
   - abbywintersfree.com
@@ -749,6 +764,7 @@ domain_suffix_set:
   - accesstohe.ac.uk
   - accesstohighereducation.ac.uk
   - accesstomusic.ac.uk
+  - accomable.com
   - account-paypal.info
   - account-paypal.net
   - account-paypal.org
@@ -1173,6 +1189,84 @@ domain_suffix_set:
   - air-watch.com
   - airav.cc
   - airav.wiki
+  - airbnb.ae
+  - airbnb.al
+  - airbnb.am
+  - airbnb.at
+  - airbnb.az
+  - airbnb.ba
+  - airbnb.be
+  - airbnb.ca
+  - airbnb.cat
+  - airbnb.ch
+  - airbnb.cl
+  - airbnb.co.cr
+  - airbnb.co.id
+  - airbnb.co.il
+  - airbnb.co.in
+  - airbnb.co.kr
+  - airbnb.co.nz
+  - airbnb.co.uk
+  - airbnb.co.ve
+  - airbnb.co.za
+  - airbnb.com
+  - airbnb.com.ar
+  - airbnb.com.au
+  - airbnb.com.bo
+  - airbnb.com.br
+  - airbnb.com.bz
+  - airbnb.com.co
+  - airbnb.com.ec
+  - airbnb.com.ee
+  - airbnb.com.gt
+  - airbnb.com.hk
+  - airbnb.com.hn
+  - airbnb.com.hr
+  - airbnb.com.kh
+  - airbnb.com.mt
+  - airbnb.com.my
+  - airbnb.com.ni
+  - airbnb.com.pa
+  - airbnb.com.pe
+  - airbnb.com.ph
+  - airbnb.com.py
+  - airbnb.com.ro
+  - airbnb.com.sg
+  - airbnb.com.sv
+  - airbnb.com.tr
+  - airbnb.com.tw
+  - airbnb.com.ua
+  - airbnb.com.vn
+  - airbnb.cz
+  - airbnb.de
+  - airbnb.dk
+  - airbnb.es
+  - airbnb.fi
+  - airbnb.fr
+  - airbnb.gr
+  - airbnb.gy
+  - airbnb.hu
+  - airbnb.ie
+  - airbnb.is
+  - airbnb.it
+  - airbnb.jp
+  - airbnb.la
+  - airbnb.lt
+  - airbnb.lu
+  - airbnb.lv
+  - airbnb.me
+  - airbnb.mx
+  - airbnb.nl
+  - airbnb.no
+  - airbnb.org
+  - airbnb.pl
+  - airbnb.pt
+  - airbnb.rs
+  - airbnb.ru
+  - airbnb.se
+  - airbnb.si
+  - airbnb.tools
+  - airbnb.travel
   - aire-wharf-coll.ac.uk
   - airgonetworks.com
   - airgunstudio.com
@@ -2185,6 +2279,7 @@ domain_suffix_set:
   - archive-it.org
   - archive.ac.uk
   - archiveofourown.net
+  - archives.gov.tw
   - archiveshub.ac.uk
   - archivx.to
   - archlinux.org
@@ -6458,6 +6553,7 @@ domain_suffix_set:
   - data.ac.uk
   - data.com
   - data.flurry.com
+  - data.gov.tw
   - dataframeworks.com
   - datafuturesalphapilot.ac.uk
   - datagrid.ac.uk
@@ -8455,6 +8551,7 @@ domain_suffix_set:
   - ex.ac.uk
   - exacttarget.com
   - exam-ta.ac.uk
+  - exam.gov.tw
   - examroom.info
   - exascale-tech.com
   - exblog.co.jp
@@ -8505,6 +8602,7 @@ domain_suffix_set:
   - exxxtra.net
   - exxxtrasmall.com
   - exxxtrasmall1.com
+  - ey.gov.tw
   - f-boro-sfc.ac.uk
   - f-dro1d.org
   - f-droid.com
@@ -8512,6 +8610,7 @@ domain_suffix_set:
   - f5pf.com
   - f6988.com
   - f95zone.to
+  - fa.gov.tw
   - faacebok.com
   - faacebook.com
   - faam.ac.uk
@@ -8976,6 +9075,7 @@ domain_suffix_set:
   - fcrt.ac.uk
   - fcw.xxx
   - fcww0.com
+  - fda.gov.tw
   - fdacebook.info
   - fdf.ac.uk
   - fdiintelligence.com
@@ -11582,6 +11682,7 @@ domain_suffix_set:
   - hp3dmetals.com
   - hp3dprinter.com
   - hp3dsamplepromo.com
+  - hpa.gov.tw
   - hpallinoneprinter.com
   - hpapplicationscenter.com
   - hpayshop.com
@@ -12341,6 +12442,7 @@ domain_suffix_set:
   - imlab.ac.uk
   - immersivetranslate.com
   - immidio.com
+  - immigration.gov.tw
   - immxd.com
   - imod.com
   - imonsterbeats.com
@@ -12972,6 +13074,7 @@ domain_suffix_set:
   - isvc.ac.uk
   - ita-do.com
   - itaeromanga.com
+  - itaiwan.gov.tw
   - italiabeatsbydrdre.com
   - itcanwait.com
   - itcfonts.com
@@ -13465,6 +13568,7 @@ domain_suffix_set:
   - jubileecentre.ac.uk
   - juc.ac.uk
   - judeporn.com
+  - judicial.gov.tw
   - juggsjoy.com
   - juhachibank.co.jp
   - juiceced.xyz
@@ -14573,6 +14677,7 @@ domain_suffix_set:
   - lwwcn.buzz
   - lwwcn.xyz
   - lxxlxx.com
+  - ly.gov.tw
   - lyellcentre.ac.uk
   - lysol.ca
   - lysol.cl
@@ -15737,6 +15842,7 @@ domain_suffix_set:
   - mixvintagesex.com
   - miyazakibank.co.jp
   - mizuhobank.co.jp
+  - mjib.gov.tw
   - mjv-art.org
   - mk.shrimpia.network
   - mk.yopo.work
@@ -15801,6 +15907,7 @@ domain_suffix_set:
   - modperl.pl
   - modrinth.com
   - modular.im
+  - moeaic.gov.tw
   - moedigi.com
   - moeero-library.com
   - moefuns.co
@@ -15809,11 +15916,13 @@ domain_suffix_set:
   - moepedia.net
   - moez-m.com
   - mof.kemomi.me
+  - mofa.gov.tw
   - mofosex.com
   - mofosnetwork.com
   - moidigital.ac.uk
   - mojang.com
   - mol.ac.uk
+  - mol.gov.tw
   - mol.im
   - moldflow.com
   - moldflowexpress.com
@@ -16121,6 +16230,7 @@ domain_suffix_set:
   - murg.ac.uk
   - muryouav.net
   - musashinobank.co.jp
+  - muscache.com
   - musclegirlflix.com
   - museumofwriting.ac.uk
   - museumwales.ac.uk
@@ -16139,6 +16249,7 @@ domain_suffix_set:
   - muther.ac.uk
   - muycerdas.xxx
   - muyzorras.com
+  - mvdis.gov.tw
   - mvideoporno.xxx
   - mvk.com
   - mwcu00.com
@@ -16404,6 +16515,7 @@ domain_suffix_set:
   - nastranworldwide.com
   - nasty.singles
   - nastyvids.com
+  - nat.gov.tw
   - nataliefiore.com
   - natcen.ac.uk
   - natcor.ac.uk
@@ -16852,6 +16964,7 @@ domain_suffix_set:
   - nhentaihaven.com
   - nhentaihaven.org
   - nheos.com
+  - nhi.gov.tw
   - nhk.or.jp
   - nhm.ac.uk
   - niab.ac.uk
@@ -17228,10 +17341,12 @@ domain_suffix_set:
   - nox.ac.uk
   - noxygames.com
   - nozomi.la
+  - npa.gov.tw
   - npcrdc.ac.uk
   - nphcardiac-research.ac.uk
   - npm.ac.uk
   - npm.community
+  - npm.gov.tw
   - npmjs.com
   - npmjs.org
   - npr.org
@@ -17249,6 +17364,7 @@ domain_suffix_set:
   - nsals.ac.uk
   - nsamr.ac.uk
   - nsc.ac.uk
+  - nsc.gov.tw
   - nsccs.ac.uk
   - nscd.ac.uk
   - nscg.ac.uk
@@ -17267,6 +17383,9 @@ domain_suffix_set:
   - nsu.ac.uk
   - nsw.ac.uk
   - ntb.ac.uk
+  - ntbk.gov.tw
+  - ntbna.gov.tw
+  - ntbt.gov.tw
   - ntc.ac.uk
   - ntc.party
   - ntd.com
@@ -18207,6 +18326,7 @@ domain_suffix_set:
   - pca.st
   - pcad.ac.uk
   - pcae.ac.uk
+  - pcc.gov.tw
   - pccw.com
   - pccwglobal.com
   - pccwsolutions.com
@@ -21479,7 +21599,6 @@ domain_suffix_set:
   - spaceship.com
   - spaceuniversitiesnetwork.ac.uk
   - spaceweather.ac.uk
-  - spacex.com
   - spaindisney.com
   - spalding.ac.uk
   - span.ac.uk
@@ -21758,6 +21877,7 @@ domain_suffix_set:
   - starwarsjedifallenorder.com
   - starwarskids.com
   - starwarstheoldrepublic.com
+  - stat.gov.tw
   - stateofthemap.com
   - stateofthemap.org
   - static-cisco.com
@@ -22225,8 +22345,10 @@ domain_suffix_set:
   - tailscale.io
   - tailwindtraders.com
   - taiolongdh.sbs
+  - taipei.gov.tw
   - tait.ac.uk
   - taiwanadultexpo.com
+  - taiwanjobs.gov.tw
   - taiwansex.tw
   - tajimabank.co.jp
   - take2games.com
@@ -22472,6 +22594,7 @@ domain_suffix_set:
   - thawte.com
   - thawte.de
   - thawte.fr
+  - thb.gov.tw
   - thdh.cc
   - the-area.com
   - the-british-museum.ac.uk
@@ -22732,6 +22855,7 @@ domain_suffix_set:
   - tinkerplay.net
   - tiny4k.com
   - tiohentai.com
+  - tipo.gov.tw
   - tipple.ac.uk
   - tire-cadcam.com
   - tiresplus.com
@@ -23619,6 +23743,7 @@ domain_suffix_set:
   - valoryirene.com
   - valuegb.com
   - vam.ac.uk
+  - vamo.com
   - vamsas.ac.uk
   - vanadium.app
   - vancouverbmwretailers.ca
@@ -24568,6 +24693,7 @@ domain_suffix_set:
   - wcs.ac.uk
   - wct.ac.uk
   - wd.com
+  - wda.gov.tw
   - wdc.com
   - wddcp.ac.uk
   - wdfiles.com
@@ -24579,6 +24705,7 @@ domain_suffix_set:
   - web-instagram.net
   - web.app
   - web.nebula-emby.com
+  - web3modal.org
   - webappfieldguide.com
   - webcam-teen.net
   - webcamgirls.chat
@@ -26670,7 +26797,6 @@ domain_suffix_set:
   - archiveofourown.com
   - archiveofourown.org
   - archives.gov
-  - archives.gov.tw
   - arctosia.com
   - areca-backup.org
   - arena.taipei
@@ -27585,7 +27711,6 @@ domain_suffix_set:
   - dashlane.com
   - dastrassi.org
   - data-vocabulary.org
-  - data.gov.tw
   - datalabour.com
   - daum.net
   - david-kilgour.com
@@ -27961,7 +28086,6 @@ domain_suffix_set:
   - evernote.com
   - evozi.com
   - evschool.net
-  - exam.gov.tw
   - exblog.jp
   - exchristian.hk
   - excite.co.jp
@@ -27980,7 +28104,6 @@ domain_suffix_set:
   - extrabux.com
   - extremetube.com
   - exx.com
-  - ey.gov.tw
   - eyevio.jp
   - eyny.com
   - ezpc.tk
@@ -27989,7 +28112,6 @@ domain_suffix_set:
   - f-droid.org
   - f2pool.com
   - f8.com
-  - fa.gov.tw
   - fabric.io
   - faceless.me
   - facesofnyfw.com
@@ -28079,7 +28201,6 @@ domain_suffix_set:
   - fc2china.com
   - fc2cn.com
   - fc2web.com
-  - fda.gov.tw
   - fdbox.com
   - fdc64.de
   - fdc64.org
@@ -28480,6 +28601,7 @@ domain_suffix_set:
   - glype.com
   - gmauthority.com
   - gmgard.com
+  - gmgn.ai
   - gmhz.org
   - gmiddle.com
   - gmiddle.net
@@ -28837,7 +28959,6 @@ domain_suffix_set:
   - hoxx.com
   - hoy.tv
   - hoyolab.com
-  - hpa.gov.tw
   - hpjav.com
   - hqcdp.org
   - hqjapanesesex.com
@@ -29012,7 +29133,6 @@ domain_suffix_set:
   - imkev.com
   - imlive.co
   - imlive.com
-  - immigration.gov.tw
   - immoral.jp
   - imore.com
   - impact.org.au
@@ -29125,7 +29245,6 @@ domain_suffix_set:
   - isuntv.com
   - isupportuyghurs.org
   - itaboo.info
-  - itaiwan.gov.tw
   - italiatibet.org
   - itasoftware.com
   - itch.io
@@ -29253,7 +29372,6 @@ domain_suffix_set:
   - jshint.com
   - jtvnw.net
   - jubushoushen.com
-  - judicial.gov.tw
   - juhuaren.com
   - jukujo-club.com
   - juliepost.com
@@ -29566,7 +29684,6 @@ domain_suffix_set:
   - luxebc.com
   - lvhai.org
   - lvv2.com
-  - ly.gov.tw
   - lyfhk.net
   - lzjscript.com
   - lzmtnews.org
@@ -29790,7 +29907,6 @@ domain_suffix_set:
   - mixx.com
   - mizzmona.com
   - mji.rip
-  - mjib.gov.tw
   - mjj.rip
   - mk5000.com
   - mlc.ai
@@ -29808,20 +29924,16 @@ domain_suffix_set:
   - mod.io
   - modernchinastudies.org
   - modmyi.com
-  - moeaic.gov.tw
   - moeerolibrary.com
   - moegirl.org
   - moeshare.cc
-  - mofa.gov.tw
   - mofaxiehui.com
   - mofos.com
   - mog.com
   - mohu.club
   - mohu.ml
   - mohu.rocks
-  - moj.gov.tw
   - mojim.com
-  - mol.gov.tw
   - molihua.org
   - momoshop.com.tw
   - mondex.org
@@ -29894,7 +30006,6 @@ domain_suffix_set:
   - muzi.com
   - muzi.net
   - muzu.tv
-  - mvdis.gov.tw
   - mvg.jp
   - mvnrepository.com
   - mx981.com
@@ -29980,7 +30091,6 @@ domain_suffix_set:
   - naol.cc
   - narod.ru
   - nasa.gov
-  - nat.gov.tw
   - nat.moe
   - natado.com
   - national-lottery.co.uk
@@ -30084,7 +30194,6 @@ domain_suffix_set:
   - nga.mil
   - ngensis.com
   - nhentai.net
-  - nhi.gov.tw
   - nhk-ondemand.jp
   - nhncorp.jp
   - nianticlabs.com
@@ -30148,8 +30257,6 @@ domain_suffix_set:
   - noxinfluencer.com
   - noypf.com
   - npa.go.jp
-  - npa.gov.tw
-  - npm.gov.tw
   - npnt.me
   - nps.gov
   - npsboost.com
@@ -30165,11 +30272,7 @@ domain_suffix_set:
   - ns1.name
   - ns2.name
   - ns3.name
-  - nsc.gov.tw
   - nssurge.com
-  - ntbk.gov.tw
-  - ntbna.gov.tw
-  - ntbt.gov.tw
   - ntd.tv
   - ntdtv.ca
   - ntdtv.co.kr
@@ -30406,7 +30509,6 @@ domain_suffix_set:
   - pbxes.com
   - pbxes.org
   - pcanywhere.net
-  - pcc.gov.tw
   - pcdvd.com.tw
   - pcgamestorrents.com
   - pchome.com.tw
@@ -30967,7 +31069,6 @@ domain_suffix_set:
   - seesmic.com
   - seevpn.com
   - seezone.net
-  - sef.org.tw
   - sehuatang.net
   - sehuatang.org
   - sejie.com
@@ -31225,6 +31326,7 @@ domain_suffix_set:
   - sowers.org.hk
   - soylent.com
   - soylentnews.org
+  - spacex.com
   - spankbang.com
   - spankingtube.com
   - spankwire.com
@@ -31288,7 +31390,6 @@ domain_suffix_set:
   - starp2p.com
   - startpage.com
   - startuplivingchina.com
-  - stat.gov.tw
   - state.gov
   - static-economist.com
   - statically.io
@@ -31408,7 +31509,6 @@ domain_suffix_set:
   - tagwalk.com
   - tahr.org.tw
   - tails.net
-  - taipei.gov.tw
   - taipeisociety.org
   - taipeitimes.com
   - taisounds.com
@@ -31418,7 +31518,6 @@ domain_suffix_set:
   - taiwandaily.net
   - taiwandc.org
   - taiwanhot.net
-  - taiwanjobs.gov.tw
   - taiwanjustice.com
   - taiwanjustice.net
   - taiwankiss.com
@@ -31524,7 +31623,6 @@ domain_suffix_set:
   - tgfcer.com
   - tgstat.com
   - thaicn.com
-  - thb.gov.tw
   - theatlantic.com
   - theatrum-belli.com
   - theaustralian.com.au
@@ -31713,7 +31811,6 @@ domain_suffix_set:
   - tinypic.com
   - tinyurl.com
   - tipas.net
-  - tipo.gov.tw
   - tistory.com
   - tkcs-collins.com
   - tl.gd
@@ -31902,6 +31999,7 @@ domain_suffix_set:
   - twelve.today
   - twerkingbutt.com
   - twftp.org
+  - twgov.tw
   - twgreatdaily.com
   - twibase.com
   - twibble.de
@@ -32271,6 +32369,7 @@ domain_suffix_set:
   - wainao.me
   - waiwaier.com
   - walletconnect.com
+  - walletconnect.org
   - wallmama.com
   - wallornot.org
   - wallpapercasa.com
@@ -32305,7 +32404,6 @@ domain_suffix_set:
   - waybig.com
   - waymo.com
   - wd.bible
-  - wda.gov.tw
   - wdf5.com
   - wealth.com.tw
   - wearehairy.com
