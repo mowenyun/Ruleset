@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 6697
+# 规则统计: 6698
 
 no_resolve: true
 domain_set:
@@ -3618,6 +3618,7 @@ domain_suffix_set:
   - morningsun.org
   - moroneta.com
   - mos.ru
+  - mosavi.io
   - mosucloud.site
   - motherless.com
   - motiyun.com

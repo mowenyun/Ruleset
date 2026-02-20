@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 33042
+# 规则统计: 33068
 
 no_resolve: true
 domain_set:
@@ -3737,6 +3737,7 @@ domain_suffix_set:
   - bitchesgirls.com
   - bitchmomporn.com
   - bitcoin.org
+  - bitcoincore.org
   - bitdefender.com
   - bite.ac.uk
   - bitflyer.com
@@ -20620,8 +20621,10 @@ domain_suffix_set:
   - secretubes.com
   - sectigo.com
   - secure-paypal.info
+  - securecloudtransformation.com
   - secureharvests.ac.uk
   - securepaypal.info
+  - securitypreview.com
   - seda.ac.uk
   - sedc.ac.uk
   - sedg.ac.uk
@@ -21858,6 +21861,7 @@ domain_suffix_set:
   - starcraft2.com
   - starfieldtech.com
   - starfox.com
+  - stargazer-games.com
   - stark-verlag.ch
   - starlink.ac.uk
   - starott.com
@@ -21912,6 +21916,8 @@ domain_suffix_set:
   - steelbrick.com
   - steemitwallet.com
   - steezylist.com
+  - stellasora.global
+  - stellasora.jp
   - stem.ac.uk
   - stemacademy.ac.uk
   - stemequals.ac.uk
@@ -22802,6 +22808,7 @@ domain_suffix_set:
   - thottok.com
   - thotvids.com
   - threadingbuildingblocks.org
+  - threatlabz.com
   - thri.xxx
   - thrixxx.com
   - thtmod1.com
@@ -25914,6 +25921,7 @@ domain_suffix_set:
   - ymhsf1.top
   - ync.ne.jp
   - ynoproject.net
+  - yo-star.com
   - yo1health.com
   - yogalayout.com
   - yogify.com
@@ -25935,6 +25943,9 @@ domain_suffix_set:
   - yorkstonemasonrycove.ac.uk
   - yorozoonews.jp
   - yoshisnewisland.com
+  - yostar-pictures.co.jp
+  - yostar.co.jp
+  - yostarplat.com
   - youassporn.com
   - youav.com
   - youflix.is
@@ -26270,6 +26281,8 @@ domain_suffix_set:
   - zdnet.com
   - zdnet.redvideo.io
   - zdusercontent.com
+  - zdxbeta.net
+  - zdxcloud.net
   - zee.com
   - zee5.com
   - zee5.in
@@ -26371,7 +26384,19 @@ domain_suffix_set:
   - zopim.com
   - zorglist.com
   - zotero.org
+  - zpagov.net
+  - zpath.com
   - zqqpwz.com
+  - zscaler.com
+  - zscaler.jp
+  - zscaler.net
+  - zscalerbeta.net
+  - zscalergov.net
+  - zscalerone.net
+  - zscalershift.com
+  - zscalerthree.net
+  - zscalertwo.net
+  - zscloud.net
   - zsh.org
   - zsuxtx-ktv.shop
   - zteman.net
@@ -29958,6 +29983,7 @@ domain_suffix_set:
   - morningsun.org
   - moroneta.com
   - mos.ru
+  - mosavi.io
   - mosucloud.site
   - motherless.com
   - motiyun.com
