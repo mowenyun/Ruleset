@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 6698
+# 规则统计: 6705
 
 no_resolve: true
 domain_set:
@@ -251,6 +251,7 @@ domain_suffix_set:
   - akamaistream.net
   - akiba-online.com
   - akiba-web.com
+  - akile.io
   - akinator.com
   - akow.org
   - al-islam.com
@@ -459,6 +460,7 @@ domain_suffix_set:
   - aspistrategist.org.au
   - aspnetcdn.com
   - assembla.com
+  - assets.nxtrace.org
   - assimp.org
   - astrill.com
   - async.be
@@ -3442,6 +3444,7 @@ domain_suffix_set:
   - mediafreakcity.com
   - mediawiki.org
   - medium.com
+  - meee.com.tw
   - meetav.com
   - meetup.com
   - mefeedia.com
@@ -4060,6 +4063,7 @@ domain_suffix_set:
   - open.com.hk
   - openallweb.com
   - openbase.com
+  - opencritic.com
   - opendemocracy.net
   - opendn.xyz
   - openervpn.in
@@ -5523,6 +5527,7 @@ domain_suffix_set:
   - topshareware.com
   - toptip.ca
   - toptoon.net
+  - tor.eff.org
   - tora.to
   - torcn.com
   - torguard.net
@@ -5796,6 +5801,7 @@ domain_suffix_set:
   - unification.net
   - unification.org.tw
   - unirule.cloud
+  - uniswap.org
   - unitedsocialpress.com
   - unity3d.com
   - unix100.com
@@ -6269,6 +6275,7 @@ domain_suffix_set:
   - wuyanblog.com
   - wwe.com
   - wwitv.com
+  - www.clashverge.dev
   - www.lamenhu.com
   - www.orchidbbs.com
   - www.taup.org.tw
