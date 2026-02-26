@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 33121
+# 规则统计: 33125
 
 no_resolve: true
 domain_set:
@@ -15863,6 +15863,8 @@ domain_suffix_set:
   - mitnaka.com
   - mitpressjournals.org
   - mixasiansex.com
+  - mixi.co.jp
+  - mixi.net
   - mixlr.com
   - mixmaturesex.com
   - mixvintagesex.com
@@ -18085,6 +18087,7 @@ domain_suffix_set:
   - pa9pal.com
   - paaypal.com
   - pacifickitchenandhome.com
+  - packagecloud.io
   - packaging-cadcam.com
   - packagingcadcam.com
   - packagist.org
@@ -28409,6 +28412,7 @@ domain_suffix_set:
   - freechinaforum.org
   - freechinaweibo.com
   - freedl.org
+  - freedom.gov
   - freedomchina.info
   - freedomcollection.org
   - freedomhongkong.org

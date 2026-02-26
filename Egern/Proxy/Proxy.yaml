@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 6705
+# 规则统计: 6706
 
 no_resolve: true
 domain_set:
@@ -1989,6 +1989,7 @@ domain_suffix_set:
   - freechinaforum.org
   - freechinaweibo.com
   - freedl.org
+  - freedom.gov
   - freedomchina.info
   - freedomcollection.org
   - freedomhongkong.org
