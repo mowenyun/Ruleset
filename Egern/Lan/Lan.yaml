@@ -1,5 +1,5 @@
 # 规则名称: Lan
-# 规则统计: 141
+# 规则统计: 139
 
 no_resolve: true
 domain_set:
@@ -10,8 +10,6 @@ domain_set:
   - setmeup.arubanetworks.com
   - www.asusrouter.com
 domain_suffix_set:
-  - 0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
-  - 0.in-addr.arpa
   - 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
   - 10.in-addr.arpa
   - 100.100.in-addr.arpa

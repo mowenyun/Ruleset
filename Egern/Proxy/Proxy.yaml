@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 6706
+# 规则统计: 6708
 
 no_resolve: true
 domain_set:
@@ -1125,6 +1125,7 @@ domain_suffix_set:
   - cl.ly
   - clarionproject.org
   - classicalguitarblog.net
+  - claude.com
   - clb.org.hk
   - cleansite.biz
   - cleansite.info
@@ -3393,6 +3394,7 @@ domain_suffix_set:
   - mansion.com
   - mansionpoker.com
   - manta.com
+  - manus.im
   - manyvoices.news
   - maplew.com
   - marc.info
