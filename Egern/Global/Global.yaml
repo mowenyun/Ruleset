@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 33153
+# 规则统计: 33165
 
 no_resolve: true
 domain_set:
@@ -116,6 +116,7 @@ domain_set:
   - www-cdn.icloud.com.akadns.net
   - yandex-pogoda.static-storage.net
   - yangzhi.app
+  - youla-web-static.mrgcdn.ru
   - ztedevices.com
   - api.waqi.info
   - aqi.aqicn.org
@@ -16295,6 +16296,7 @@ domain_suffix_set:
   - mut.ch
   - muthead.com
   - muther.ac.uk
+  - muvluv-girls-garden.com
   - muycerdas.xxx
   - muyzorras.com
   - mvdis.gov.tw
@@ -17871,6 +17873,7 @@ domain_suffix_set:
   - onlyams.com
   - onlycartoonsex.com
   - onlydudes.com
+  - onlyfans.com
   - onlyfanspw.com
   - onlyfreelatinaporn.com
   - onlyhdporn.com
@@ -18723,6 +18726,10 @@ domain_suffix_set:
   - pleasurebabe.com
   - pleasuregirl.net
   - pleasuremore.com
+  - plex.com
+  - plex.services
+  - plex.tv
+  - plexapp.com
   - plixi.com
   - plos.org
   - plug-into.com
@@ -20724,6 +20731,7 @@ domain_suffix_set:
   - semanticscholar.org
   - sena.co.kr
   - senatehouselibrary.ac.uk
+  - sendvid.com
   - seneporno.com
   - seniortgp.com
   - senpaiheat.com
@@ -23749,6 +23757,7 @@ domain_suffix_set:
   - usvimosquitoproject.com
   - usw.ac.uk
   - utcreading.ac.uk
+  - utdstc.com
   - uug22.com
   - uug23.com
   - uug25.com
@@ -26024,6 +26033,8 @@ domain_suffix_set:
   - youflix.is
   - youjism.com
   - youjizz.sex
+  - youla.io
+  - youla.ru
   - youmind.ai
   - youmind.site
   - young-amateur-movies.com
@@ -27970,6 +27981,7 @@ domain_suffix_set:
   - doujincafe.com
   - dowei.org
   - dowjones.com
+  - download.dappcdn.com
   - dphk.org
   - dpool.top
   - dpp.org.tw
