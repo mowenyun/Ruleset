@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 6712
+# 规则统计: 6713
 
 no_resolve: true
 domain_set:
@@ -4825,6 +4825,7 @@ domain_suffix_set:
   - shipcamouflage.com
   - shireyishunjian.com
   - shitaotv.org
+  - shitjournal.org
   - shixiao.org
   - shizhao.org
   - shkspr.mobi
