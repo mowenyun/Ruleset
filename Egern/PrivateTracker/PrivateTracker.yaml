@@ -1,5 +1,5 @@
 # 规则名称: PrivateTracker
-# 规则统计: 255
+# 规则统计: 259
 
 no_resolve: true
 domain_set:
@@ -27,8 +27,8 @@ domain_set:
   - lucke.fenesisu.moe
   - martin-gebhardt.eu
   - node01.madtia.cc
+  - node01.torrentonline.cc
   - node01.trackerstatus.live
-  - node02.madtia.cc
   - ns575949.ip-51-222-82.net
   - nyaa.tracker.wf
   - open.acgtracker.com
@@ -41,6 +41,9 @@ domain_set:
   - rekcart.duckdns.org
   - retracker.hotplug.ru
   - retracker.lanta.me
+  - s1130638.ha016.t.mydomain.zone
+  - s1130639.ha009.t.mydomain.zone
+  - s1130642.ha014.t.mydomain.zone
   - shahidrazi.online
   - speedtest.iperson.xyz
   - t.213891.xyz
@@ -81,6 +84,8 @@ domain_set:
   - tracker.gcrenwp.top
   - tracker.ghostchu-services.top
   - tracker.gmi.gd
+  - tracker.huadongblower.xyz
+  - tracker.iochimari.moe
   - tracker.iperson.xyz
   - tracker.ipv6tracker.ru
   - tracker.ixuexi.click
@@ -89,7 +94,6 @@ domain_set:
   - tracker.moeblog.cn
   - tracker.mywaifu.best
   - tracker.nekomi.cn
-  - tracker.novy.vip
   - tracker.opentorrent.top
   - tracker.opentrackr.org
   - tracker.openwebtorrent.com
@@ -110,13 +114,13 @@ domain_set:
   - tracker.tritan.gg
   - tracker.tryhackx.org
   - tracker.tvunderground.org.ru
+  - tracker.waaa.moe
   - tracker.wepzone.net
   - tracker.xn--djrq4gl4hvoi.top
   - tracker.yggleak.top
   - tracker.yume-hatsuyuki.moe
   - tracker.zhuqiy.com
   - tracker1.520.jp
-  - tracker1.myporn.club
   - tracker2.dler.org
   - tracker2.itzmx.com
   - tracker3.itzmx.com
@@ -126,8 +130,8 @@ domain_set:
   - udp1.torrust-tracker-demo.com
   - utracker.ghostchu-services.top
   - wepzone.net
+  - wsad.run.place
   - www.all4nothin.net
-  - www.wareztorrent.com
 domain_suffix_set:
   - 1ptba.com
   - 2xfree.org

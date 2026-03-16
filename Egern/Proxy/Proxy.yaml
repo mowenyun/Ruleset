@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 6713
+# 规则统计: 6714
 
 no_resolve: true
 domain_set:
@@ -6313,6 +6313,7 @@ domain_suffix_set:
   - xclient.info
   - xcritic.com
   - xda-developers.com
+  - xdaforums.com
   - xeeno.com
   - xerotica.com
   - xfiles.to
