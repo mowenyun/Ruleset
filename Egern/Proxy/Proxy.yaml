@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 6714
+# 规则统计: 6715
 
 no_resolve: true
 domain_set:
@@ -166,6 +166,7 @@ domain_suffix_set:
   - a-normal-day.com
   - a5.com.ru
   - aamacau.com
+  - aave.com
   - abc.com
   - abc.net.au
   - abc.pp.ru
