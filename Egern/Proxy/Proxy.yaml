@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 6715
+# 规则统计: 6718
 
 no_resolve: true
 domain_set:
@@ -1099,6 +1099,7 @@ domain_suffix_set:
   - churchinhongkong.org
   - chushigangdrug.ch
   - ci-en.jp
+  - cia.gov
   - cici.com
   - ciciai.com
   - cienen.com
@@ -4022,8 +4023,10 @@ domain_suffix_set:
   - oizoblog.com
   - ok.ru
   - okayfreedom.com
+  - okcoin.com
   - okex.com
   - okk.tw
+  - oklink.com
   - okpool.me
   - okx.com
   - old-cat.net

@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 33191
+# 规则统计: 33199
 
 no_resolve: true
 domain_set:
@@ -3403,6 +3403,7 @@ domain_suffix_set:
   - beeg.rest
   - beegfree.com
   - beejp.net
+  - beeline.tv
   - beep.ac.uk
   - bees.ac.uk
   - beforeigners.com
@@ -3494,6 +3495,7 @@ domain_suffix_set:
   - bestbuyus.com
   - bestcamsites.net
   - bestclouddrive.com
+  - bestdori.com
   - besterpornos.com
   - bestescortgirls.nl
   - bestfreecams.club
@@ -8495,6 +8497,7 @@ domain_suffix_set:
   - esopworld.com
   - esp-scotland.ac.uk
   - esp32.com
+  - esp8266.com
   - espa-headlines.ac.uk
   - espa.ac.uk
   - espadoldettol.com.ar
@@ -8506,6 +8509,7 @@ domain_suffix_set:
   - espnqa.com
   - esports.gg
   - esposasymaridos.com
+  - espressif.com
   - esrc.ac.uk
   - esrcfestival.ac.uk
   - esrcmanchesterfest.ac.uk
@@ -26435,6 +26439,7 @@ domain_suffix_set:
   - zhuichaguoji.org
   - zhuzhushipin-app.com
   - zibacity.com
+  - ziglang.org
   - zigzag.kr
   - zind.cloud
   - zingtruyen.net
@@ -27590,6 +27595,7 @@ domain_suffix_set:
   - churchinhongkong.org
   - chushigangdrug.ch
   - ci-en.jp
+  - cia.gov
   - cici.com
   - ciciai.com
   - cienen.com
@@ -30490,8 +30496,10 @@ domain_suffix_set:
   - oizoblog.com
   - ok.ru
   - okayfreedom.com
+  - okcoin.com
   - okex.com
   - okk.tw
+  - oklink.com
   - okpool.me
   - okx.com
   - old-cat.net
