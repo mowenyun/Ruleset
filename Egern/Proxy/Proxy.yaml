@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 6720
+# 规则统计: 6721
 
 no_resolve: true
 domain_set:
@@ -6369,6 +6369,7 @@ domain_suffix_set:
   - xn--9pr62r24a.com
   - xn--czq75pvv1aj5c.org
   - xn--i2ru8q2qg.com
+  - xn--kcrv3utim32hx9f6qe.com
   - xn--ngstr-lra8j.com
   - xn--noss43i.com
   - xn--oiq.cc
