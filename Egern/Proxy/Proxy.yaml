@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 6720
+# 规则统计: 6721
 
 no_resolve: true
 domain_set:
@@ -4102,6 +4102,7 @@ domain_suffix_set:
   - orzistic.org
   - osfoora.com
   - osha.gov
+  - osmand.net
   - osxdaily.com
   - otcbtc.com
   - otnd.org

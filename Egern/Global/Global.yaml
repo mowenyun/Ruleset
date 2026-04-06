@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 33354
+# 规则统计: 33399
 
 no_resolve: true
 domain_set:
@@ -113,6 +113,7 @@ domain_set:
   - wetv.qq.com
   - widgets.stripst.com
   - wrds-www.wharton.upenn.edu
+  - ws.audioscrobbler.com
   - www-cdn.icloud.com.akadns.net
   - yandex-pogoda.static-storage.net
   - yangzhi.app
@@ -2705,6 +2706,8 @@ domain_suffix_set:
   - autodeskviewer.com
   - autodeskworkshop.com
   - autodeskworkshop.net
+  - autoesporte.com
+  - autoesporte.com.br
   - automaton-media.com
   - automobile.fr
   - automotive-cadcam.com
@@ -3577,6 +3580,7 @@ domain_suffix_set:
   - bhamcityuniversity.ac.uk
   - bhasvic.ac.uk
   - bhent.co.kr
+  - bhfm.com.br
   - bhggn.xyz
   - bhpgms.ac.uk
   - bhpms.ac.uk
@@ -5188,6 +5192,7 @@ domain_suffix_set:
   - carr-lse.ac.uk
   - carshalton.ac.uk
   - carstagram.com
+  - cartola.com.br
   - cartoon-sex.tv
   - cartoon18.com
   - cartoon3thumbs.com
@@ -5267,6 +5272,7 @@ domain_suffix_set:
   - cbcdc.ac.uk
   - cbi.ir
   - cbm.com.mm
+  - cbn.com.br
   - cbpar.ac.uk
   - cbrl.ac.uk
   - cbs.ac.uk
@@ -5369,6 +5375,7 @@ domain_suffix_set:
   - cdnpure.com
   - cdnuc.vip
   - cdnvideo.ru
+  - cdnvideohub.com
   - cdnxxx-proxy.co
   - cdnxxx-proxy.xyz
   - cdrc.ac.uk
@@ -8347,6 +8354,8 @@ domain_suffix_set:
   - epinions.com
   - episodic.com
   - epne.ac.uk
+  - epoca.com.br
+  - epocanegocios.com.br
   - epoch.cloud
   - epoch.org.il
   - epochbase.com
@@ -8513,6 +8522,7 @@ domain_suffix_set:
   - esiss.ac.uk
   - eskimotube.com
   - esm.run
+  - esm.sh
   - esmarthealth.com
   - esmatube.com
   - esnw.ac.uk
@@ -9918,6 +9928,7 @@ domain_suffix_set:
   - g-xxxhub.com
   - g.dev
   - g.page
+  - g1.com.br
   - g1d1goob.xyz
   - gacebook.com
   - gaelicstoryatgu.ac.uk
@@ -10337,7 +10348,14 @@ domain_suffix_set:
   - globalsign.net
   - globalsign.nl
   - globalspec.com
+  - globo.com
+  - globo.com.br
   - globolakes.ac.uk
+  - globoplay.com
+  - globoplay.com.br
+  - globoradio.com.br
+  - globoreporter.com.br
+  - globorural.com.br
   - gloknos.ac.uk
   - gloporn.com
   - gloryholefucking.com
@@ -10897,6 +10915,8 @@ domain_suffix_set:
   - gsa.ac.uk
   - gscanada.info
   - gsccdn.com
+  - gshow.com
+  - gshow.com.br
   - gslink.us
   - gsmd.ac.uk
   - gsmlondon.ac.uk
@@ -12622,6 +12642,7 @@ domain_suffix_set:
   - influencersgonewild.com
   - infocert.digital
   - infocert.it
+  - infoglobo.com.br
   - infogov.ac.uk
   - infolinker.com.tw
   - infoq.jp
@@ -17863,6 +17884,8 @@ domain_suffix_set:
   - ogakikyoritsu.co.jp
   - ogameblog.com
   - oge.ac.uk
+  - oghost.com.br
+  - oglobo.com.br
   - ogp.me
   - ogsa-dai.ac.uk
   - ohentai.org
@@ -18128,7 +18151,6 @@ domain_suffix_set:
   - osiri-suki-club.com
   - osl.com
   - osm.org
-  - osmand.net
   - osmfoundation.org
   - osmosis.ac.uk
   - ospray.net
@@ -18163,6 +18185,7 @@ domain_suffix_set:
   - oubs.ac.uk
   - oudoll.com
   - ouplaw.com
+  - our-notes.jp
   - ourjourney.ac.uk
   - ouroath.com
   - oursexgames.com
@@ -18601,6 +18624,8 @@ domain_suffix_set:
   - peepholecam.com
   - peerj.com
   - peerlearning.ac.uk
+  - pegn.com
+  - pegn.com.br
   - pejyyah.com
   - pelvicexam.info
   - pembrokeshire.ac.uk
@@ -18803,6 +18828,7 @@ domain_suffix_set:
   - pjful-app.lol
   - pjgirls.com
   - pjsekai.sega.jp
+  - pkgbuild.com
   - pki-post.ch
   - pki-posta.ch
   - pki-poste.ch
@@ -19775,6 +19801,7 @@ domain_suffix_set:
   - radian6.com
   - radiko-cf.com
   - radiofarda.com
+  - radioglobo.com.br
   - radiomango.fm
   - radiomarsho.com
   - radioresearch.ac.uk
@@ -20138,6 +20165,13 @@ domain_suffix_set:
   - reut.rs
   - reuters.tv
   - revenue-performance-management.com
+  - revistaepoca.com
+  - revistaepoca.com.br
+  - revistagalileu.com.br
+  - revistapegn.com
+  - revistapegn.com.br
+  - revistaquem.com.br
+  - revistavalor.com.br
   - revit.com
   - revitcc.com
   - revitsucks.net
@@ -21123,6 +21157,7 @@ domain_suffix_set:
   - sgp1.fun
   - sgpe.ac.uk
   - sgpstatp.com
+  - sgr.com.br
   - sgsah.ac.uk
   - sgscol.ac.uk
   - sgspe.de
@@ -22675,6 +22710,8 @@ domain_suffix_set:
   - techradar.com
   - techstreet.com
   - techtimes.com
+  - techtudo.com
+  - techtudo.com.br
   - techxtra.ac.uk
   - ted.com
   - tedcdn.com
@@ -23778,6 +23815,8 @@ domain_suffix_set:
   - umist.ac.uk
   - ums.ac.uk
   - umslg.ac.uk
+  - umsoplaneta.com
+  - umsoplaneta.com.br
   - umtc.ac.uk
   - unbrandedproducts.com
   - uncams.com
@@ -23984,6 +24023,10 @@ domain_suffix_set:
   - vaginapics.pro
   - vagrantcloud.com
   - vagrantup.com
+  - valor.com.br
+  - valoreconomico.com.br
+  - valorinveste.com
+  - valorinveste.com.br
   - valoryirene.com
   - value-domain.com
   - value-server.com
@@ -25733,6 +25776,7 @@ domain_suffix_set:
   - xtubebdsm.com
   - xtubezoo.com
   - xujan.com
+  - xuxaverso.com.br
   - xv-ru.com
   - xv1.monster
   - xvds.tv
@@ -30728,6 +30772,7 @@ domain_suffix_set:
   - orzistic.org
   - osfoora.com
   - osha.gov
+  - osmand.net
   - osxdaily.com
   - otcbtc.com
   - otnd.org
