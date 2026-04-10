@@ -1,5 +1,5 @@
 # 规则名称: ChinaTest
-# 规则统计: 118413
+# 规则统计: 118414
 
 no_resolve: true
 domain_set:
@@ -63,6 +63,7 @@ domain_set:
   - ea2cn-staging-outlet.dell.com
   - emoi-cncdn.bing.com
   - fcs.dell.com
+  - firebase-settings.crashlytics.com
   - fta.dell.com
   - ftaapj.dell.com
   - ftaemea.dell.com
@@ -129,6 +130,7 @@ domain_set:
   - test.gbugs-qa.chromium.org
   - time.xtracloud.net
   - tp.louisvuitton.com
+  - update.crashlytics.com
   - uplaypc-s-ubisoft.cdn.ubi.com
   - www-csb.dell.com
   - www.destinationurl.com
@@ -1127,7 +1129,6 @@ domain_suffix_set:
   - cqccn.com
   - cqvip.com
   - cr173.com
-  - crashlytics.com
   - crggcn.com
   - crsky.com
   - cryuantafund.com

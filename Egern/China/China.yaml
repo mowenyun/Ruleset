@@ -1,5 +1,5 @@
 # 规则名称: China
-# 规则统计: 3728
+# 规则统计: 3727
 
 no_resolve: true
 domain_set:
@@ -1032,7 +1032,6 @@ domain_suffix_set:
   - cqccn.com
   - cqvip.com
   - cr173.com
-  - crashlytics.com
   - crggcn.com
   - crsky.com
   - cryuantafund.com

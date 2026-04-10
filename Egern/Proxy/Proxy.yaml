@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 6725
+# 规则统计: 6727
 
 no_resolve: true
 domain_set:
@@ -1246,6 +1246,7 @@ domain_suffix_set:
   - cpu-monkey.com
   - cq99.us
   - crackle.com
+  - crashlytics.com
   - crazypool.org
   - crazys.cc
   - crazyshit.com
@@ -3570,6 +3571,7 @@ domain_suffix_set:
   - missav.com
   - missav.ws
   - mist.vip
+  - mistral.ai
   - mit.edu
   - mitao.com.tw
   - mitbbs.com

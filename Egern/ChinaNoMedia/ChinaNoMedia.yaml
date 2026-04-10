@@ -1,5 +1,5 @@
 # 规则名称: ChinaNoMedia
-# 规则统计: 3631
+# 规则统计: 3630
 
 no_resolve: true
 domain_set:
@@ -995,7 +995,6 @@ domain_suffix_set:
   - cqccn.com
   - cqvip.com
   - cr173.com
-  - crashlytics.com
   - crggcn.com
   - crsky.com
   - cryuantafund.com
