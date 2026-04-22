@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 34008
+# 规则统计: 34011
 
 no_resolve: true
 domain_set:
@@ -876,6 +876,7 @@ domain_suffix_set:
   - adguard.info
   - adguard.io
   - adguardaccount.com
+  - adguardcdn.com
   - adguardvpn.com
   - adhelpnews.com
   - adidas-archive.org
@@ -16103,6 +16104,7 @@ domain_suffix_set:
   - minim.ac.uk
   - minimarkham.ca
   - minimarkham.com
+  - minimax.io
   - minimoncton.ca
   - minimoncton.com
   - minimontrealcentre.ca
@@ -21084,6 +21086,7 @@ domain_suffix_set:
   - scope-uk.ac.uk
   - scopic.ac.uk
   - score.ac.uk
+  - scorecardresearch.com
   - scoreclassics.com
   - scorediscounts.club
   - scoregroup.com
