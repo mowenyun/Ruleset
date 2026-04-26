@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 34021
+# 规则统计: 34025
 
 no_resolve: true
 domain_set:
@@ -1142,6 +1142,7 @@ domain_suffix_set:
   - agemys.org
   - agendaweek.com
   - agenet.ac.uk
+  - agentclientprotocol.com
   - agilebits.com
   - agocg.ac.uk
   - agoogleaday.com
@@ -19113,6 +19114,7 @@ domain_suffix_set:
   - placesdocs.com
   - planetminecraft.com
   - planetsuzy.org
+  - plannotator.ai
   - plansondemand.com
   - plant-phenomics.ac.uk
   - plantsvszombies2.com
@@ -23988,6 +23990,7 @@ domain_suffix_set:
   - twirl.ac.uk
   - twistedlinks.net
   - twistys.com
+  - twitchcon.com
   - twitchsvc.net
   - twitcomike.jp
   - twitter.biz
@@ -32556,6 +32559,7 @@ domain_suffix_set:
   - teachparentstech.org
   - teamamericany.com
   - teamviewer.com
+  - techbang.com
   - techcrunch.com
   - technews.tw
   - technorati.com
