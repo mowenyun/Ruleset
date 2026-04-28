@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 34025
+# 规则统计: 34027
 
 no_resolve: true
 domain_set:
@@ -12077,6 +12077,7 @@ domain_suffix_set:
   - hrsaz.com
   - hrsfc.ac.uk
   - hrtek.ru
+  - hrtsea.com
   - hsad.ac.uk
   - hsbc-alternatives.de
   - hsbc-transactionservices.de
@@ -26364,6 +26365,7 @@ domain_suffix_set:
   - xtracloud.net
   - xtubebdsm.com
   - xtubezoo.com
+  - xu97.vip
   - xujan.com
   - xuxaverso.com.br
   - xv-ru.com
