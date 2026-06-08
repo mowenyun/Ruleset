@@ -1,5 +1,5 @@
 # 规则名称: ChinaTest
-# 规则统计: 112939
+# 规则统计: 112872
 
 no_resolve: true
 domain_set:
@@ -4297,7 +4297,6 @@ domain_suffix_set:
   - 051058.com
   - 0510gcw.com
   - 0510gtgc.com
-  - 0510syedu.com
   - 0513.net
   - 0513.org
   - 0513011.com
@@ -5110,7 +5109,6 @@ domain_suffix_set:
   - 100wa.com
   - 100web.store
   - 100weidu.com
-  - 100wen.com
   - 100wsanguo.com
   - 100xgj.com
   - 100xhs.com
@@ -6376,7 +6374,6 @@ domain_suffix_set:
   - 1der-ad.com
   - 1diaocha.com
   - 1diary.me
-  - 1drv.ws
   - 1e44f70c510272.beer
   - 1e9d98e731024.beer
   - 1ed3277798d157ac.com
@@ -8572,7 +8569,6 @@ domain_suffix_set:
   - 46771313.com
   - 46809.org
   - 46940.vip
-  - 4694393.com
   - 46ab3da510d4ccaf.com
   - 46cdn.vip
   - 46d7940171014.beer
@@ -8793,7 +8789,6 @@ domain_suffix_set:
   - 505uu.com
   - 5066.com
   - 506u5nf5j5.com
-  - 50747.com
   - 507c7d240b2eae97.com
   - 5087.com
   - 508hdsys.com
@@ -9711,7 +9706,6 @@ domain_suffix_set:
   - 52shanghe.com
   - 52shangou.com
   - 52shici.com
-  - 52shihu.com
   - 52shipping.com
   - 52shuw.cc
   - 52shuxue.com
@@ -15757,7 +15751,6 @@ domain_suffix_set:
   - ann9.com
   - annabelz.com
   - annainj.com
-  - annearkham.com
   - anneijun.com
   - annelhair.com
   - annhe.net
@@ -16193,7 +16186,6 @@ domain_suffix_set:
   - app86.com
   - app887.com
   - appadhoc.com
-  - appadhoc.net
   - apparest.com
   - appbi.com
   - appbk.com
@@ -16201,7 +16193,6 @@ domain_suffix_set:
   - appbsl.com
   - appbw.com
   - appbz.info
-  - appbza.com
   - appchizi.com
   - appcms.org
   - appcoo.com
@@ -20733,7 +20724,6 @@ domain_suffix_set:
   - booknest.net
   - bookof.com
   - bookqi.com
-  - books51.com
   - bookschina.com
   - booksgoo.com
   - bookshadow.com
@@ -21084,7 +21074,6 @@ domain_suffix_set:
   - bsjyjt.com
   - bskrt.com
   - bskuav.com
-  - bslongyin.com
   - bsmatrix.com
   - bsmjdjzx.com
   - bsmy.cc
@@ -21228,7 +21217,6 @@ domain_suffix_set:
   - budao24.com
   - budiankj.com
   - budikeji.com
-  - buding.tv
   - budingmore.com
   - budingscan.com
   - budiot.com
@@ -23939,7 +23927,6 @@ domain_suffix_set:
   - chatvgx.com
   - chatyygpt.com
   - chawo.com
-  - chaxiaow.com
   - chaxinyu.net
   - chaxunchina.com
   - chaxunfapiao.com
@@ -27070,7 +27057,6 @@ domain_suffix_set:
   - cnfzflw.com
   - cngal.org
   - cnganen.com
-  - cngaosu.com
   - cngb.org
   - cngba.com
   - cngbdl.com
@@ -27136,7 +27122,6 @@ domain_suffix_set:
   - cnhuafas.com
   - cnhuanya.com
   - cnhubei.com
-  - cnhuoche.com
   - cnhvacrnet.com
   - cnhwjt.com
   - cnhyc.com
@@ -27539,7 +27524,6 @@ domain_suffix_set:
   - cnwa.com
   - cnwaci.com
   - cnwaishi.com
-  - cnwaking.com
   - cnwansun.com
   - cnwaternews.com
   - cnwb.net
@@ -29567,7 +29551,6 @@ domain_suffix_set:
   - cubie.cc
   - cubing.com
   - cubox.pro
-  - cucdc.com
   - cuchost.com
   - cucldk.com
   - cuctv.com
@@ -29734,7 +29717,6 @@ domain_suffix_set:
   - cxgame.net
   - cxgeo.com
   - cxgj56.com
-  - cxglmc.com
   - cxglys.com
   - cxgw.com
   - cxh99.com
@@ -31634,7 +31616,6 @@ domain_suffix_set:
   - dfs168.com
   - dfshurufa.com
   - dfshw.com
-  - dfshysw.com
   - dfsjsoft.com
   - dfsmw.com
   - dfsouth.com
@@ -32212,6 +32193,7 @@ domain_suffix_set:
   - dingso.com
   - dingtalk.co.jp
   - dingtalkcloud.com
+  - dingtalkcs.com
   - dingteam.com
   - dingtoo.com
   - dingweilishi.com
@@ -32951,7 +32933,6 @@ domain_suffix_set:
   - dongjiaotn.com
   - dongjin-cn.com
   - dongjinyu.com
-  - dongjueonline.com
   - dongjujituan.com
   - dongjun.cc
   - dongjungroup.com
@@ -36462,7 +36443,6 @@ domain_suffix_set:
   - faakee.com
   - faanw.com
   - faayoo.com
-  - fabang.com
   - fabao365.com
   - fabaofoundation.com
   - fabaogou.com
@@ -36787,7 +36767,6 @@ domain_suffix_set:
   - fanuc666.com
   - fanuchdf.com
   - fanw8.com
-  - fanwantianyu.com
   - fanwe.com
   - fanwenbaike.com
   - fanwenq.com
@@ -36968,7 +36947,6 @@ domain_suffix_set:
   - fcbsgroup.com
   - fcbu.com
   - fcc8aa32d10251.beer
-  - fcchbj.com
   - fccs.com
   - fccscar.com
   - fccxgjg.com
@@ -39663,7 +39641,6 @@ domain_suffix_set:
   - gardencn.com
   - gardenhotel.com
   - gardenhotelshanghai.com
-  - garfopg.org
   - garmuri.com
   - garnoc.com
   - garnor.com
@@ -40299,7 +40276,6 @@ domain_suffix_set:
   - geakr.com
   - geality.com
   - geapu.com
-  - gear5.me
   - gearbbs.net
   - gearfront.net
   - gearkr.com
@@ -40340,7 +40316,6 @@ domain_suffix_set:
   - geekcar.com
   - geekcar.net
   - geekclo.com
-  - geekdata.com
   - geekdaxue.co
   - geekdive.com
   - geekefu.com
@@ -40658,7 +40633,6 @@ domain_suffix_set:
   - gfttek.com
   - gftuan.com
   - gfun.me
-  - gfvip00ae.com
   - gfvip01ad.com
   - gfvip02aa.com
   - gfvip04ah.com
@@ -41839,7 +41813,6 @@ domain_suffix_set:
   - gourmet114.com
   - goushh.com
   - goushubao.com
-  - gousu.com
   - goutanzi.com
   - gouwanmei.com
   - gouwubang.com
@@ -42551,7 +42524,6 @@ domain_suffix_set:
   - gufengmh9.com
   - gufenxueshu.net
   - gugeapps.net
-  - gugexs.com
   - gugezg.com
   - gugong.net
   - gugu.fun
@@ -43489,7 +43461,6 @@ domain_suffix_set:
   - gxhjky.com
   - gxhjsz.com
   - gxhjwy.com
-  - gxhjzbcyy.com
   - gxhjzx.com
   - gxhkd.com
   - gxhkdq.com
@@ -45127,7 +45098,6 @@ domain_suffix_set:
   - gzlig.com
   - gzlight.com
   - gzliyuanhb.com
-  - gzljsl.com
   - gzlnholdings.com
   - gzlsgy.com
   - gzlt.net
@@ -45861,7 +45831,6 @@ domain_suffix_set:
   - hakczz.com
   - hakfqyy.com
   - hakonespring.com
-  - hakuya.work
   - halade.com
   - halcyonz.com
   - halead.com
@@ -46360,7 +46329,6 @@ domain_suffix_set:
   - haowenbo.com
   - haowenshi.com
   - haowu.com
-  - haowuguo.com
   - haowusong.com
   - haowuyunji.com
   - haoxg.net
@@ -47792,7 +47760,6 @@ domain_suffix_set:
   - hf12345.vip
   - hf168.net
   - hf365.com
-  - hf3owy4.sbs
   - hf777.com
   - hf960.com
   - hfabiao.com
@@ -50123,7 +50090,6 @@ domain_suffix_set:
   - huachuangroup.net
   - huaco908.com
   - huacolor.com
-  - huacooling.com
   - huada120.com
   - huadachem.com
   - huadan.com
@@ -54692,7 +54658,6 @@ domain_suffix_set:
   - iu18.com
   - iu95522.com
   - iuban.com
-  - iucars.com
   - iucdn.com
   - iuctrip.com
   - iufida.com
@@ -55239,7 +55204,6 @@ domain_suffix_set:
   - jd120.com
   - jd360.hk
   - jd37.com
-  - jd5.com
   - jdallianz.com
   - jdapi.com
   - jdb-ware.com
@@ -56749,7 +56713,6 @@ domain_suffix_set:
   - jinyuan.pro
   - jinyuanbiochem.com
   - jinyuancopper.com
-  - jinyuangejiaju.com
   - jinyuanlight.com
   - jinyunal.com
   - jinyunjob.com
@@ -57582,7 +57545,6 @@ domain_suffix_set:
   - jobinhe.net
   - jobloser.com
   - jobosoft.vip
-  - jobpin.com
   - jobsalon.net
   - jobsdigg.com
   - jobsitechina.com
@@ -58296,7 +58258,6 @@ domain_suffix_set:
   - jssgjs.com
   - jsshasczzyy.com
   - jsshfcw.com
-  - jsshhzx.com
   - jsshichuang.com
   - jsshow.net
   - jsshrzx.com
@@ -60995,7 +60956,6 @@ domain_suffix_set:
   - kra-5at.com
   - krahag.com
   - krak12.com
-  - kraken30.com
   - krd168.com
   - krdrama.com
   - krenzheng.com
@@ -63934,7 +63894,6 @@ domain_suffix_set:
   - liuguofeng.com
   - liuhaolin.com
   - liuhubang.com
-  - liujiagd.com
   - liujiajia.me
   - liujian666.com
   - liujiaoyidai.com
@@ -64156,7 +64115,6 @@ domain_suffix_set:
   - ljk.cc
   - ljkangyang.com
   - ljlcd.com
-  - ljlj.cc
   - ljlmdns.com
   - ljlqw.com
   - ljmeng.site
@@ -65254,7 +65212,6 @@ domain_suffix_set:
   - luxtarget.com
   - luxuanart.com
   - luxuqing.com
-  - luxury-ceramics.com
   - luxury2008.com
   - luxurybrandmall.com
   - luxurychina.org
@@ -66793,7 +66750,6 @@ domain_suffix_set:
   - mcidc.net
   - mcit.tech
   - mcjd.net
-  - mckuai.com
   - mckumf5ii4.com
   - mcloudvr.com
   - mcmap.cc
@@ -67484,6 +67440,7 @@ domain_suffix_set:
   - mfsj1908.com
   - mftianshanam.com
   - mftvideo.com
+  - mfuns.net
   - mfunz.com
   - mfwxpay.com
   - mfxlawyer.com
@@ -67615,7 +67572,6 @@ domain_suffix_set:
   - mianshiya.com
   - mianshui365.com
   - mianwai.com
-  - mianyangauto.com
   - mianyanghuida.com
   - mianyaojsj.com
   - mianyazulin.com
@@ -68009,7 +67965,6 @@ domain_suffix_set:
   - mingya.mobi
   - mingyang100.com
   - mingyangtek.com
-  - mingyangyinhe.com
   - mingyannet.com
   - mingyantong.com
   - mingyaohui.com
@@ -68453,7 +68408,6 @@ domain_suffix_set:
   - moark.com
   - mob55.com
   - mobaders.com
-  - mobai.sbs
   - mobaibox.com
   - moban.com
   - mobanhao.com
@@ -70961,6 +70915,7 @@ domain_suffix_set:
   - nio.com
   - nio08310lt.com
   - nioapis.com
+  - niohome.com
   - niozhr.com
   - niparts.com
   - nipei.com
@@ -72709,7 +72664,6 @@ domain_suffix_set:
   - ofcard.com
   - ofcms.com
   - ofdreader.net
-  - ofenka.com
   - offer-wow.com
   - offerpluscn.com
   - offersloc.com
@@ -76011,7 +75965,6 @@ domain_suffix_set:
   - qcwan.com
   - qcwlseo.com
   - qcwp.com
-  - qcwxjs.com
   - qcxrby.com
   - qcxs.com
   - qcxzls.com
@@ -77522,7 +77475,6 @@ domain_suffix_set:
   - qr25.com
   - qrcpu.com
   - qrgiant.com
-  - qrmanhua.com
   - qrobot.com
   - qrprt.com
   - qrstuvwxyzab.com
@@ -79755,7 +79707,6 @@ domain_suffix_set:
   - rtfund.com
   - rtfzfl.com
   - rthpc.com
-  - rti-investor.com
   - rtjxssj.com
   - rtmap.com
   - rtmobi.cc
@@ -80235,11 +80186,9 @@ domain_suffix_set:
   - sagw.com
   - sahcqmu.com
   - saheo.com
-  - sahvyw8.sbs
   - saibeiip.com
   - saibeinews.com
   - saiboauto.com
-  - saiboyy.com
   - saic-audi.mobi
   - saic-finance.com
   - saic-gm.com
@@ -90047,7 +89996,6 @@ domain_suffix_set:
   - tfoison.com
   - tfol.com
   - tfoyin.com
-  - tfrl.net
   - tfs906.com
   - tfsb.net
   - tfsino.com
@@ -90861,7 +90809,6 @@ domain_suffix_set:
   - tjczjxsb.com
   - tjdeviser.com
   - tjdewy.com
-  - tjdrzc.com
   - tjdyf.com
   - tjeco-city.com
   - tjeti.com
@@ -91203,7 +91150,6 @@ domain_suffix_set:
   - tocosc.com
   - tocreating.com
   - today36524.com
-  - today99.com
   - todaycache.net
   - todayguizhou.com
   - todaygx.com
@@ -91680,7 +91626,6 @@ domain_suffix_set:
   - toycloud.com
   - toyean.com
   - toyota-nanning.com
-  - toyoures.com
   - toyoutesting.com
   - toysir.com
   - toysol.com
@@ -91842,7 +91787,6 @@ domain_suffix_set:
   - treetwins.com
   - treeyee.com
   - trekin.space
-  - trend6.com
   - trendiano.com
   - trendimedia.com
   - trendingstar.tech
@@ -92652,7 +92596,6 @@ domain_suffix_set:
   - txga.com
   - txgirl1.com
   - txgirl2.com
-  - txhsya.com
   - txhttpdns.net
   - txhy1699.com
   - txie.club
@@ -97535,7 +97478,6 @@ domain_suffix_set:
   - wjsw.com
   - wjtr.com
   - wjttl.com
-  - wjtzyg.com
   - wjwai.com
   - wjwuqiang.com
   - wjxcdn.com
@@ -97862,7 +97804,6 @@ domain_suffix_set:
   - woliuda.com
   - wologic.net
   - wolong.com
-  - wolonge.com
   - wolongge.com
   - wolongmedia.com
   - wolongyin.com
@@ -99140,19 +99081,14 @@ domain_suffix_set:
   - x0246.com
   - x0769.com
   - x1106y.mobi
-  - x11263.com
-  - x11296.com
   - x118.net
   - x1abo.com
-  - x23118.com
-  - x23119.com
   - x23us.us
   - x23wxw.com
   - x2552.com
   - x2intell.com
   - x3322.net
   - x3366.com
-  - x33699.com
   - x33yq.org
   - x3china.com
   - x3cn.com
@@ -99161,7 +99097,6 @@ domain_suffix_set:
   - x5zs.com
   - x64go.com
   - x64pro.com
-  - x66597.com
   - x6d.com
   - x6tb.com
   - x6x8.com
@@ -99635,7 +99570,6 @@ domain_suffix_set:
   - xfhx.com
   - xfinfr.com
   - xfisp.com
-  - xfj100.com
   - xfjcw.com
   - xfjw.net
   - xfjxs.com
@@ -103663,6 +103597,7 @@ domain_suffix_set:
   - yaochixie.com
   - yaochufa.com
   - yaocsoft.com
+  - yaodinongye.com
   - yaodou.net
   - yaodu365.com
   - yaoex.com
@@ -103726,7 +103661,6 @@ domain_suffix_set:
   - yaozhigong.com
   - yaozhizhu.com
   - yaozs.com
-  - yaozui.com
   - yapingkeji.com
   - yapingtech.com
   - yapp.com
@@ -104552,7 +104486,6 @@ domain_suffix_set:
   - yichengnews.com
   - yichengwangluo.net
   - yicheshi.com
-  - yichezhi.com
   - yichi.tech
   - yichip.com
   - yichkp.com
@@ -106276,6 +106209,7 @@ domain_suffix_set:
   - youxi528.com
   - youxi567.com
   - youxi8282.com
+  - youxi9527.com
   - youxia.com
   - youxiacg.com
   - youxiagushi.com
@@ -107128,7 +107062,6 @@ domain_suffix_set:
   - yulongwanski.com
   - yuloo.com
   - yulore.com
-  - yulorepages.com
   - yulu1.com
   - yulu99.com
   - yuluju.com
@@ -108615,6 +108548,7 @@ domain_suffix_set:
   - zedyer.com
   - zeedao.com
   - zeehoev.com
+  - zeekrgroup.com
   - zeekrlife.com
   - zeekrline.com
   - zeelis.com
@@ -111032,7 +110966,6 @@ domain_suffix_set:
   - zjhospital.net
   - zjhpyy.com
   - zjhrnet.com
-  - zjhsfs.com
   - zjhslyw.com
   - zjhtcm.com
   - zjhualing.com
