@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 6881
+# 规则统计: 6883
 
 no_resolve: true
 domain_set:
@@ -1150,6 +1150,7 @@ domain_suffix_set:
   - ck101.com
   - cl.ly
   - clarionproject.org
+  - clashyun.com
   - classicalguitarblog.net
   - claude.com
   - clb.org.hk
@@ -5305,6 +5306,7 @@ domain_suffix_set:
   - synergyse.com
   - syosetu.com
   - sysresccd.org
+  - sysub.com
   - sytes.net
   - syx86.com
   - szbbs.net
