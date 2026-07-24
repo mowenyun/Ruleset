@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 6883
+# 规则统计: 6885
 
 no_resolve: true
 domain_set:
@@ -5664,6 +5664,7 @@ domain_suffix_set:
   - toh.info
   - token.im
   - tokenlon.im
+  - tokenplus.app
   - tokyo-247.com
   - tokyo-hot.com
   - tokyocn.com
@@ -6696,6 +6697,7 @@ domain_suffix_set:
   - zengjinyan.org
   - zenmate.com
   - zenmate.com.ru
+  - zenmux.ai
   - zerohedge.com
   - zeronet.io
   - zeutch.com

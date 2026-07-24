@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 34857
+# 规则统计: 34859
 
 no_resolve: true
 domain_set:
@@ -33623,6 +33623,7 @@ domain_suffix_set:
   - toh.info
   - token.im
   - tokenlon.im
+  - tokenplus.app
   - tokyo-247.com
   - tokyo-hot.com
   - tokyocn.com
@@ -34641,6 +34642,7 @@ domain_suffix_set:
   - zello.com
   - zengjinyan.org
   - zenmate.com
+  - zenmux.ai
   - zerohedge.com
   - zeronet.io
   - zeutch.com
