@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 34859
+# 规则统计: 34864
 
 no_resolve: true
 domain_set:
@@ -7561,6 +7561,7 @@ domain_suffix_set:
   - doclercdn.com
   - docs.com
   - docs.rs
+  - docs.rw
   - doctor-videos.com
   - documentforce.com
   - docusend.ac.uk
@@ -15101,6 +15102,7 @@ domain_suffix_set:
   - localxlist.org
   - locate.ac.uk
   - lockssalliance.ac.uk
+  - log.rw
   - logi.com
   - logic.ac.uk
   - logicool.co.jp
@@ -24415,6 +24417,7 @@ domain_suffix_set:
   - truyenkk1.com
   - truyentranh86.com
   - truyenwk.com
+  - try.rw
   - tryalias.com
   - tryboobs.com
   - trycloudflare.com
@@ -29120,6 +29123,7 @@ domain_suffix_set:
   - cienen.com
   - cineastentreff.de
   - cipfg.org
+  - circle19.org
   - circlethebayfortibet.org
   - cirosantilli.com
   - citizencn.com
@@ -31135,6 +31139,7 @@ domain_suffix_set:
   - kanzhongguo.eu
   - kaotic.com
   - karayou.com
+  - kards.com
   - karkhung.com
   - karmapa-teachings.org
   - karmapa.org
