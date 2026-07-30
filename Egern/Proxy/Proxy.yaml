@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 6887
+# 规则统计: 6888
 
 no_resolve: true
 domain_set:
@@ -5739,6 +5739,7 @@ domain_suffix_set:
   - truthontour.org
   - truthsocial.com
   - truveo.com
+  - tryai.dev
   - tryheart.jp
   - tsctv.net
   - tsemtulku.com

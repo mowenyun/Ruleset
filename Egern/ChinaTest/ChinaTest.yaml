@@ -1,5 +1,5 @@
 # 规则名称: ChinaTest
-# 规则统计: 111931
+# 规则统计: 111932
 
 no_resolve: true
 domain_set:
@@ -100898,6 +100898,7 @@ domain_suffix_set:
   - xmmuye.com
   - xmnjdwx.com
   - xmocloud01.com
+  - xmoj.tech
   - xmonecode.com
   - xmos.tv
   - xmov.ai
