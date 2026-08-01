@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 6888
+# 规则统计: 6889
 
 no_resolve: true
 domain_set:
@@ -6048,6 +6048,7 @@ domain_suffix_set:
   - uygur.org
   - uymaarip.com
   - v.gd
+  - v.recipes
   - v.roucdn
   - v2.help
   - v2.hysteria.network

@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 34871
+# 规则统计: 34893
 
 no_resolve: true
 domain_set:
@@ -1946,6 +1946,7 @@ domain_suffix_set:
   - api-extractor.com
   - api.nebula-emby.com
   - api.news
+  - apiauto.ru
   - apibay.org
   - apina.biz
   - apiok.ru
@@ -2633,6 +2634,7 @@ domain_suffix_set:
   - authorxml.com
   - authpass.app
   - authy.com
+  - auto.ru
   - autocad-schulungen.com
   - autocad.com
   - autocad360.com
@@ -2770,6 +2772,7 @@ domain_suffix_set:
   - automaton-media.com
   - automobile.fr
   - automotive-cadcam.com
+  - autoru.me
   - autosketch.com
   - autosub.ac.uk
   - autumn-jade.com
@@ -2863,6 +2866,7 @@ domain_suffix_set:
   - avstar6.com
   - avstar8.com
   - avstar9.com
+  - avto.ru
   - avwong.com
   - avwto.com
   - avxde.org
@@ -5749,6 +5753,8 @@ domain_suffix_set:
   - cheshire.ac.uk
   - cheshirecolleges.ac.uk
   - cheshirehe.ac.uk
+  - chess.com
+  - chesscomfiles.com
   - chest.ac.uk
   - chester.ac.uk
   - chesterfield.ac.uk
@@ -5837,6 +5843,9 @@ domain_suffix_set:
   - chyoa.com
   - ci-en.net
   - cia.ac.uk
+  - cian.ru
+  - cian.site
+  - ciangroup.ru
   - cias.ac.uk
   - ciattackers.com
   - cib.ac.uk
@@ -6078,6 +6087,7 @@ domain_suffix_set:
   - clusterconnection.com
   - clydebank.ac.uk
   - clzz2.xyz
+  - cm.expert
   - cmac.ac.uk
   - cmcnet.ac.uk
   - cmcsm.ac.uk
@@ -7500,6 +7510,7 @@ domain_suffix_set:
   - dm-event.net
   - dmed.technology
   - dmgmediaprivacy.co.uk
+  - dmir.ru
   - dmit.io
   - dmit.sh
   - dml-lang.org
@@ -7739,6 +7750,7 @@ domain_suffix_set:
   - drnastran.com
   - drns.ac.uk
   - drobbox.pro
+  - drom.ru
   - dropbox-dns.com
   - dropbox.com
   - dropbox.tech
@@ -18455,6 +18467,7 @@ domain_suffix_set:
   - nytlog.com
   - nyu.ac.uk
   - o-courier.ru
+  - o-uchi.ru
   - o2action.co.kr
   - o3.ru
   - o365weve-dev.com
@@ -20073,6 +20086,7 @@ domain_suffix_set:
   - potenza.jp
   - potteries.ac.uk
   - potterieseducationaltrust.ac.uk
+  - poudobnee.com
   - poverty.ac.uk
   - povpornonly.com
   - povr.com
@@ -20689,6 +20703,7 @@ domain_suffix_set:
   - rdio.com
   - rdmrsc.ac.uk
   - rdnet.ac.uk
+  - rdrom.ru
   - rds-yes.buzz
   - re-net.ac.uk
   - re25.vip
@@ -20764,6 +20779,7 @@ domain_suffix_set:
   - realtor.com
   - realtype.co.jp
   - realtype.jp
+  - realtyverif.ru
   - realvision.com
   - realviz.com
   - realzoomovies.com
@@ -24689,6 +24705,7 @@ domain_suffix_set:
   - ucfb.ac.uk
   - ucg.ac.uk
   - uchi.ru
+  - uchilk.ru
   - ucisa.ac.uk
   - ucl-status.ac.uk
   - ucl.ac.uk
@@ -26862,6 +26879,7 @@ domain_suffix_set:
   - xn----8sbeoy5bze.com
   - xn----8sbkfzespdwig.xn--p1ai
   - xn----8sbwjbxyd.xn--p1ai
+  - xn----otbzjdu.xn--p1ai
   - xn--096-4g6em5t.com
   - xn--201-4g6em5t.com
   - xn--202-4g6em5t.com
@@ -26878,7 +26896,9 @@ domain_suffix_set:
   - xn--74q434dwff.net
   - xn--7hv594h.com
   - xn--80a9a4b.xn--p1ai
+  - xn--80aaafbpzn5blfby1p.xn--p1ai
   - xn--80aaazx1an0a.lol
+  - xn--80aaeib8abrryx4k.xn--p1ai
   - xn--80aafgovrgbc7am.xn--p1ai
   - xn--80acbjgmges7ca.xn--p1ai
   - xn--80acbjgsdq2cl.xn--p1ai
@@ -27520,6 +27540,7 @@ domain_suffix_set:
   - ymhsf.top
   - ymhsf1.top
   - ync.ne.jp
+  - yndx.net
   - ynoproject.net
   - yo-star.com
   - yo1health.com
@@ -34012,6 +34033,7 @@ domain_suffix_set:
   - uygur.org
   - uymaarip.com
   - v.gd
+  - v.recipes
   - v.roucdn
   - v2.help
   - v2.hysteria.network

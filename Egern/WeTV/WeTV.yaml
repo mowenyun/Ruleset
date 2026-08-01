@@ -1,5 +1,5 @@
 # 规则名称: WeTV
-# 规则统计: 9
+# 规则统计: 7
 
 no_resolve: true
 domain_set:
@@ -7,8 +7,6 @@ domain_set:
 domain_suffix_set:
   - iflix-images.akamaized.net
   - iflix.com
-  - v.smtcdns.com
-  - v.smtcdns.net
   - vv.video.qq.com
   - wetv.vip
   - wetvinfo.com
