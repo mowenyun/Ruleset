@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 34893
+# 规则统计: 34902
 
 no_resolve: true
 domain_set:
@@ -839,6 +839,7 @@ domain_suffix_set:
   - acsis.ac.uk
   - actalis.com
   - actalis.it
+  - actifio.com
   - activatelearning.ac.uk
   - activelearnprimary.co.uk
   - activelearnprimary.com.au
@@ -5591,7 +5592,6 @@ domain_suffix_set:
   - ceramics-cadcam.com
   - cercia.ac.uk
   - cerdas.com
-  - cerebras.ai
   - ceredigion.ac.uk
   - ceri.ac.uk
   - cerlim.ac.uk
@@ -5823,7 +5823,6 @@ domain_suffix_set:
   - chroniclesec.com
   - chrysaliscourses.ac.uk
   - chs.ac.uk
-  - cht.com.tw
   - chtf.org.tw
   - chuangb15.xyz
   - chubbypornonly.com
@@ -13972,7 +13971,10 @@ domain_suffix_set:
   - jetbrains.ai
   - jetbrains.cloud
   - jetbrains.com
+  - jetbrains.dev
   - jetbrains.net
+  - jetbrains.org
+  - jetbrains.ru
   - jetbrains.space
   - jetbrains.team
   - jetfuelapp.com
@@ -14559,6 +14561,8 @@ domain_suffix_set:
   - koshelek.app
   - koskade.com
   - kostenlosepornoclips.com
+  - kotl.in
+  - kotlinconf.com
   - kotlinlang.org
   - koubaibu.jp
   - koukoku.jp
@@ -14585,6 +14589,7 @@ domain_suffix_set:
   - kssdeanery.ac.uk
   - ksyp10.com
   - ktech.team
+  - ktor.io
   - ktvu.com
   - ku77.xyz
   - kuaimao-app.com
@@ -16878,6 +16883,7 @@ domain_suffix_set:
   - mozilla-europe.org
   - mozilla-hispano.org
   - mozilla-mexico.org
+  - mozilla.ai
   - mozilla.com
   - mozilla.community
   - mozilla.cz
@@ -17175,6 +17181,7 @@ domain_suffix_set:
   - myhulu.com
   - myicloud.net
   - myipod.net
+  - myjetbrains.com
   - myjkwd.com
   - mylabnotebook.ac.uk
   - mylcb.ac.uk
@@ -18774,6 +18781,7 @@ domain_suffix_set:
   - openweather.co.uk
   - openweathermap.org
   - openweave.io
+  - openxla.org
   - opera-archive.ac.uk
   - opera-mini.net
   - opinionjournal.com
@@ -23611,6 +23619,7 @@ domain_suffix_set:
   - talentlens.com
   - taleofthenight.com
   - talkinghealthmatters.ac.uk
+  - talkingkotlin.com
   - talksport.com
   - tamescol.ac.uk
   - tameside-acl.ac.uk
@@ -29013,6 +29022,7 @@ domain_suffix_set:
   - centerforhumanreprod.com
   - centralnation.com
   - centurys.net
+  - cerebras.ai
   - certificate-transparency.org
   - cex.io
   - cfhks.org.hk
@@ -29137,6 +29147,7 @@ domain_suffix_set:
   - chromercise.com
   - chromestatus.com
   - chromium.org
+  - cht.com.tw
   - chuang-yen.org
   - chubold.com
   - chubun.com
@@ -31741,7 +31752,6 @@ domain_suffix_set:
   - movements.org
   - moves-export.com
   - moviefap.com
-  - mozilla.ai
   - mozilla.org
   - moztw.org
   - mp3buscador.com
@@ -32062,6 +32072,7 @@ domain_suffix_set:
   - ntdtv.jp
   - ntdtv.ru
   - ntdtvla.com
+  - nthlink.com
   - ntrfun.com
   - ntu.edu.tw
   - nu.nl
@@ -32622,7 +32633,6 @@ domain_suffix_set:
   - radio.garden
   - radioaustralia.net.au
   - radiohilight.net
-  - radiojar.com
   - radioline.co
   - radiotime.com
   - radiovaticana.org
@@ -34429,7 +34439,6 @@ domain_suffix_set:
   - wuyanblog.com
   - wwe.com
   - wwitv.com
-  - www.clashverge.dev
   - www1.biz
   - wwwhost.biz
   - wxw.cat
