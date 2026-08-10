@@ -1,5 +1,5 @@
 # 规则名称: ChinaTest
-# 规则统计: 111315
+# 规则统计: 111316
 
 no_resolve: true
 domain_set:
@@ -62398,6 +62398,7 @@ domain_suffix_set:
   - lifevc.com
   - lifevccdn.com
   - lifeweeker.com
+  - lifexue.com
   - lifeyk.com
   - lifeyn.net
   - lifezb.com
