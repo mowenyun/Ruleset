@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 34999
+# 规则统计: 35002
 
 no_resolve: true
 domain_set:
@@ -21274,6 +21274,7 @@ domain_suffix_set:
   - rscem.ac.uk
   - rsd-exeter.ac.uk
   - rse.ac.uk
+  - rsg.ms
   - rsg.sc
   - rshb.ru
   - rsk.co
@@ -21632,6 +21633,8 @@ domain_suffix_set:
   - sbux.com.my
   - sbuxcard.com
   - sc-cdn.net
+  - sc-gw.com
+  - sc-static.net
   - sc-toolkit.ac.uk
   - sc.com
   - sc1.ac.uk
