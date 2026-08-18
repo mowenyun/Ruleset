@@ -1,5 +1,5 @@
 # 规则名称: ChinaTest
-# 规则统计: 111323
+# 规则统计: 111324
 
 no_resolve: true
 domain_set:
@@ -75299,6 +75299,7 @@ domain_suffix_set:
   - qianwa.com
   - qianwanku.com
   - qianwen.com
+  - qianwenai.com
   - qianxiangbank.com
   - qianxibj.net
   - qianximiye.com

@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 35002
+# 规则统计: 35003
 
 no_resolve: true
 domain_set:
@@ -21407,6 +21407,7 @@ domain_suffix_set:
   - rutracker.cr
   - rutracker.me
   - rutracker.nl
+  - rutracker.wiki
   - rutrecker.net
   - rutube.sport
   - rutubelist.ru
